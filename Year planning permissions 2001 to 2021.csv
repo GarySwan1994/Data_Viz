@@ -1,0 +1,2150 @@
+Year,Type of Dwelling,Region and County,County,Average Floor Area per Unit,Planning Permissions Granted,Total Floor Area for which Permission Granted,Units for which Permission Granted
+2001,Houses,Carlow,Carlow,147,313,120,814
+2001,Houses,Cavan,Cavan,164,877,326,1988
+2001,Houses,Clare,Clare,166,912,311,1872
+2001,Houses,Cork,Cork,151,2334,959,6371
+2001,Houses,Donegal,Donegal,159,1741,581,3644
+2001,Houses,Dublin,Dublin,128,893,834,6496
+2001,Houses,Galway,Galway,171,1996,620,3632
+2001,Houses,Kerry,Kerry,149,1475,415,2794
+2001,Houses,Kildare,Kildare,151,779,440,2906
+2001,Houses,Kilkenny,Kilkenny,162,571,179,1106
+2001,Houses,Laois,Laois,136,261,201,1480
+2001,Houses,Leitrim,Leitrim,158,377,156,988
+2001,Houses,Limerick,Limerick,152,872,263,1726
+2001,Houses,Longford,Longford,152,329,178,1173
+2001,Houses,Louth,Louth,129,487,261,2019
+2001,Houses,Mayo,Mayo,153,1229,352,2295
+2001,Houses,Meath,Meath,143,792,440,3078
+2001,Houses,Monaghan,Monaghan,167,471,148,886
+2001,Houses,Offaly,Offaly,132,478,220,1664
+2001,Houses,Roscommon,Roscommon,148,646,229,1552
+2001,Houses,Sligo,Sligo,138,381,157,1137
+2001,Houses,Waterford,Waterford,153,461,150,980
+2001,Houses,Westmeath,Westmeath,152,513,175,1148
+2001,Houses,Wexford,Wexford,158,1253,545,3458
+2001,Houses,Wicklow,Wicklow,164,417,160,974
+2001,Multi development houses,Carlow,Carlow,120,23,63,524
+2001,Multi development houses,Cavan,Cavan,141,162,180,1273
+2001,Multi development houses,Clare,Clare,144,72,149,1032
+2001,Multi development houses,Cork,Cork,134,201,570,4238
+2001,Multi development houses,Donegal,Donegal,142,186,296,2089
+2001,Multi development houses,Dublin,Dublin,125,169,719,5772
+2001,Multi development houses,Galway,Galway,148,91,255,1727
+2001,Multi development houses,Kerry,Kerry,126,150,185,1469
+2001,Multi development houses,Kildare,Kildare,134,63,293,2190
+2001,Multi development houses,Kilkenny,Kilkenny,137,29,77,564
+2001,Multi development houses,Laois,Laois,126,31,157,1250
+2001,Multi development houses,Leitrim,Leitrim,142,49,94,660
+2001,Multi development houses,Limerick,Limerick,123,51,111,905
+2001,Multi development houses,Longford,Longford,142,50,127,894
+2001,Multi development houses,Louth,Louth,107,61,171,1593
+2001,Multi development houses,Mayo,Mayo,129,123,153,1189
+2001,Multi development houses,Meath,Meath,128,66,301,2352
+2001,Multi development houses,Monaghan,Monaghan,128,39,58,454
+2001,Multi development houses,Offaly,Offaly,113,37,138,1223
+2001,Multi development houses,Roscommon,Roscommon,127,67,124,973
+2001,Multi development houses,Sligo,Sligo,118,26,92,782
+2001,Multi development houses,Waterford,Waterford,129,39,72,558
+2001,Multi development houses,Westmeath,Westmeath,129,41,87,676
+2001,Multi development houses,Wexford,Wexford,152,181,362,2386
+2001,Multi development houses,Wicklow,Wicklow,157,55,96,612
+2001,One off houses,Carlow,Carlow,197,290,57,290
+2001,One off houses,Cavan,Cavan,204,715,146,715
+2001,One off houses,Clare,Clare,193,840,162,840
+2001,One off houses,Cork,Cork,182,2133,388,2133
+2001,One off houses,Donegal,Donegal,183,1555,285,1555
+2001,One off houses,Dublin,Dublin,159,724,115,724
+2001,One off houses,Galway,Galway,192,1905,365,1905
+2001,One off houses,Kerry,Kerry,174,1325,230,1325
+2001,One off houses,Kildare,Kildare,207,716,148,716
+2001,One off houses,Kilkenny,Kilkenny,188,542,102,542
+2001,One off houses,Laois,Laois,191,230,44,230
+2001,One off houses,Leitrim,Leitrim,186,328,61,328
+2001,One off houses,Limerick,Limerick,185,821,152,821
+2001,One off houses,Longford,Longford,183,279,51,279
+2001,One off houses,Louth,Louth,209,426,89,426
+2001,One off houses,Mayo,Mayo,180,1106,199,1106
+2001,One off houses,Meath,Meath,191,726,139,726
+2001,One off houses,Monaghan,Monaghan,208,432,90,432
+2001,One off houses,Offaly,Offaly,186,441,82,441
+2001,One off houses,Roscommon,Roscommon,181,579,105,579
+2001,One off houses,Sligo,Sligo,183,355,65,355
+2001,One off houses,Waterford,Waterford,185,422,78,422
+2001,One off houses,Westmeath,Westmeath,186,472,88,472
+2001,One off houses,Wexford,Wexford,172,1072,184,1072
+2001,One off houses,Wicklow,Wicklow,177,362,64,362
+2001,Private flats/apartments,Carlow,Carlow,79,18,8,101
+2001,Private flats/apartments,Cavan,Cavan,75,31,18,239
+2001,Private flats/apartments,Clare,Clare,83,32,11,132
+2001,Private flats/apartments,Cork,Cork,76,158,58,760
+2001,Private flats/apartments,Donegal,Donegal,77,45,13,169
+2001,Private flats/apartments,Dublin,Dublin,80,418,698,8752
+2001,Private flats/apartments,Galway,Galway,76,50,22,290
+2001,Private flats/apartments,Kerry,Kerry,77,65,29,377
+2001,Private flats/apartments,Kildare,Kildare,85,66,72,851
+2001,Private flats/apartments,Kilkenny,Kilkenny,80,30,6,75
+2001,Private flats/apartments,Laois,Laois,61,9,7,115
+2001,Private flats/apartments,Leitrim,Leitrim,70,25,15,215
+2001,Private flats/apartments,Limerick,Limerick,71,38,11,155
+2001,Private flats/apartments,Longford,Longford,83,32,25,303
+2001,Private flats/apartments,Louth,Louth,84,50,42,502
+2001,Private flats/apartments,Mayo,Mayo,75,42,12,160
+2001,Private flats/apartments,Meath,Meath,69,86,61,881
+2001,Private flats/apartments,Monaghan,Monaghan,61,17,6,98
+2001,Private flats/apartments,Offaly,Offaly,59,19,4,68
+2001,Private flats/apartments,Roscommon,Roscommon,79,9,10,127
+2001,Private flats/apartments,Sligo,Sligo,89,21,22,248
+2001,Private flats/apartments,Waterford,Waterford,56,9,2,36
+2001,Private flats/apartments,Westmeath,Westmeath,71,29,13,184
+2001,Private flats/apartments,Wexford,Wexford,83,49,29,351
+2001,Private flats/apartments,Wicklow,Wicklow,93,31,18,193
+2002,Houses,Carlow,Carlow,139,245,87,627
+2002,Houses,Cavan,Cavan,152,617,270,1775
+2002,Houses,Clare,Clare,164,637,213,1301
+2002,Houses,Cork,Cork,143,1993,873,6108
+2002,Houses,Donegal,Donegal,168,1748,494,2935
+2002,Houses,Dublin,Dublin,113,803,798,7055
+2002,Houses,Galway,Galway,169,1622,423,2499
+2002,Houses,Kerry,Kerry,154,1177,308,2006
+2002,Houses,Kildare,Kildare,152,527,229,1508
+2002,Houses,Kilkenny,Kilkenny,135,431,173,1278
+2002,Houses,Laois,Laois,145,321,222,1535
+2002,Houses,Leitrim,Leitrim,146,249,89,609
+2002,Houses,Limerick,Limerick,144,766,305,2115
+2002,Houses,Longford,Longford,154,239,90,583
+2002,Houses,Louth,Louth,155,422,160,1035
+2002,Houses,Mayo,Mayo,164,1090,324,1981
+2002,Houses,Meath,Meath,135,516,359,2664
+2002,Houses,Monaghan,Monaghan,146,430,149,1019
+2002,Houses,Offaly,Offaly,135,488,236,1748
+2002,Houses,Roscommon,Roscommon,162,600,158,974
+2002,Houses,Sligo,Sligo,148,354,138,930
+2002,Houses,Waterford,Waterford,156,476,137,876
+2002,Houses,Westmeath,Westmeath,147,363,169,1152
+2002,Houses,Wexford,Wexford,159,866,213,1343
+2002,Houses,Wicklow,Wicklow,117,314,299,2553
+2002,Multi development houses,Carlow,Carlow,104,21,42,403
+2002,Multi development houses,Cavan,Cavan,131,109,166,1267
+2002,Multi development houses,Clare,Clare,130,50,93,714
+2002,Multi development houses,Cork,Cork,122,170,522,4285
+2002,Multi development houses,Donegal,Donegal,139,175,189,1362
+2002,Multi development houses,Dublin,Dublin,109,146,695,6398
+2002,Multi development houses,Galway,Galway,125,56,117,933
+2002,Multi development houses,Kerry,Kerry,121,74,109,903
+2002,Multi development houses,Kildare,Kildare,123,49,127,1030
+2002,Multi development houses,Kilkenny,Kilkenny,109,27,95,874
+2002,Multi development houses,Laois,Laois,131,28,163,1242
+2002,Multi development houses,Leitrim,Leitrim,123,23,47,383
+2002,Multi development houses,Limerick,Limerick,119,58,168,1407
+2002,Multi development houses,Longford,Longford,133,24,49,368
+2002,Multi development houses,Louth,Louth,115,28,74,641
+2002,Multi development houses,Mayo,Mayo,139,102,138,993
+2002,Multi development houses,Meath,Meath,122,48,267,2196
+2002,Multi development houses,Monaghan,Monaghan,105,31,65,620
+2002,Multi development houses,Offaly,Offaly,117,34,151,1294
+2002,Multi development houses,Roscommon,Roscommon,132,58,57,432
+2002,Multi development houses,Sligo,Sligo,128,47,80,623
+2002,Multi development houses,Waterford,Waterford,119,29,51,429
+2002,Multi development houses,Westmeath,Westmeath,129,32,106,821
+2002,Multi development houses,Wexford,Wexford,120,63,65,540
+2002,Multi development houses,Wicklow,Wicklow,109,46,250,2285
+2002,One off houses,Carlow,Carlow,201,224,45,224
+2002,One off houses,Cavan,Cavan,205,508,104,508
+2002,One off houses,Clare,Clare,204,587,120,587
+2002,One off houses,Cork,Cork,193,1823,351,1823
+2002,One off houses,Donegal,Donegal,194,1573,305,1573
+2002,One off houses,Dublin,Dublin,155,657,102,657
+2002,One off houses,Galway,Galway,195,1566,306,1566
+2002,One off houses,Kerry,Kerry,180,1103,199,1103
+2002,One off houses,Kildare,Kildare,213,478,102,478
+2002,One off houses,Kilkenny,Kilkenny,196,404,79,404
+2002,One off houses,Laois,Laois,198,293,58,293
+2002,One off houses,Leitrim,Leitrim,190,226,43,226
+2002,One off houses,Limerick,Limerick,194,708,137,708
+2002,One off houses,Longford,Longford,195,215,42,215
+2002,One off houses,Louth,Louth,218,394,86,394
+2002,One off houses,Mayo,Mayo,188,988,186,988
+2002,One off houses,Meath,Meath,197,468,92,468
+2002,One off houses,Monaghan,Monaghan,213,399,85,399
+2002,One off houses,Offaly,Offaly,187,454,85,454
+2002,One off houses,Roscommon,Roscommon,186,542,101,542
+2002,One off houses,Sligo,Sligo,189,307,58,307
+2002,One off houses,Waterford,Waterford,192,447,86,447
+2002,One off houses,Westmeath,Westmeath,190,331,63,331
+2002,One off houses,Wexford,Wexford,183,803,147,803
+2002,One off houses,Wicklow,Wicklow,187,268,50,268
+2002,Private flats/apartments,Carlow,Carlow,74,20,31,421
+2002,Private flats/apartments,Cavan,Cavan,63,25,12,191
+2002,Private flats/apartments,Clare,Clare,96,35,26,270
+2002,Private flats/apartments,Cork,Cork,72,135,59,825
+2002,Private flats/apartments,Donegal,Donegal,73,46,12,165
+2002,Private flats/apartments,Dublin,Dublin,81,385,664,8202
+2002,Private flats/apartments,Galway,Galway,73,49,18,247
+2002,Private flats/apartments,Kerry,Kerry,60,42,12,200
+2002,Private flats/apartments,Kildare,Kildare,81,60,39,482
+2002,Private flats/apartments,Kilkenny,Kilkenny,61,22,6,98
+2002,Private flats/apartments,Laois,Laois,73,24,28,384
+2002,Private flats/apartments,Leitrim,Leitrim,75,22,9,120
+2002,Private flats/apartments,Limerick,Limerick,81,38,96,1185
+2002,Private flats/apartments,Longford,Longford,76,19,11,145
+2002,Private flats/apartments,Louth,Louth,70,38,18,256
+2002,Private flats/apartments,Mayo,Mayo,70,52,15,213
+2002,Private flats/apartments,Meath,Meath,74,63,47,639
+2002,Private flats/apartments,Monaghan,Monaghan,63,20,6,95
+2002,Private flats/apartments,Offaly,Offaly,76,18,10,132
+2002,Private flats/apartments,Roscommon,Roscommon,75,19,11,146
+2002,Private flats/apartments,Sligo,Sligo,101,20,22,217
+2002,Private flats/apartments,Waterford,Waterford,60,18,5,83
+2002,Private flats/apartments,Westmeath,Westmeath,83,32,49,588
+2002,Private flats/apartments,Wexford,Wexford,75,40,21,280
+2002,Private flats/apartments,Wicklow,Wicklow,76,46,65,855
+2003,Houses,Carlow,Carlow,142,382,190,1334
+2003,Houses,Cavan,Cavan,164,650,290,1771
+2003,Houses,Clare,Clare,163,743,302,1856
+2003,Houses,Cork,Cork,149,1976,796,5357
+2003,Houses,Donegal,Donegal,161,1808,544,3385
+2003,Houses,Dublin,Dublin,108,957,745,6887
+2003,Houses,Galway,Galway,180,2153,530,2950
+2003,Houses,Kerry,Kerry,157,1241,352,2236
+2003,Houses,Kildare,Kildare,143,503,218,1524
+2003,Houses,Kilkenny,Kilkenny,141,492,207,1464
+2003,Houses,Laois,Laois,156,345,158,1010
+2003,Houses,Leitrim,Leitrim,168,284,88,525
+2003,Houses,Limerick,Limerick,149,740,285,1919
+2003,Houses,Longford,Longford,161,226,62,384
+2003,Houses,Louth,Louth,152,390,152,999
+2003,Houses,Mayo,Mayo,176,1327,338,1916
+2003,Houses,Meath,Meath,136,472,373,2733
+2003,Houses,Monaghan,Monaghan,167,395,135,806
+2003,Houses,Offaly,Offaly,152,400,142,933
+2003,Houses,Roscommon,Roscommon,151,575,222,1466
+2003,Houses,Sligo,Sligo,151,406,120,796
+2003,Houses,Waterford,Waterford,142,421,164,1151
+2003,Houses,Westmeath,Westmeath,155,359,135,873
+2003,Houses,Wexford,Wexford,140,751,225,1609
+2003,Houses,Wicklow,Wicklow,133,252,119,893
+2003,Multi development houses,Carlow,Carlow,117,34,115,986
+2003,Multi development houses,Cavan,Cavan,143,155,182,1276
+2003,Multi development houses,Clare,Clare,140,70,166,1183
+2003,Multi development houses,Cork,Cork,124,166,439,3547
+2003,Multi development houses,Donegal,Donegal,125,209,224,1786
+2003,Multi development houses,Dublin,Dublin,103,149,629,6079
+2003,Multi development houses,Galway,Galway,134,69,116,866
+2003,Multi development houses,Kerry,Kerry,125,116,139,1111
+2003,Multi development houses,Kildare,Kildare,112,35,118,1056
+2003,Multi development houses,Kilkenny,Kilkenny,108,27,108,999
+2003,Multi development houses,Laois,Laois,132,24,91,689
+2003,Multi development houses,Leitrim,Leitrim,150,25,40,266
+2003,Multi development houses,Limerick,Limerick,119,53,146,1232
+2003,Multi development houses,Longford,Longford,126,17,22,175
+2003,Multi development houses,Louth,Louth,113,37,73,646
+2003,Multi development houses,Mayo,Mayo,143,98,98,687
+2003,Multi development houses,Meath,Meath,122,49,282,2310
+2003,Multi development houses,Monaghan,Monaghan,116,29,51,440
+2003,Multi development houses,Offaly,Offaly,116,26,65,559
+2003,Multi development houses,Roscommon,Roscommon,131,51,123,942
+2003,Multi development houses,Sligo,Sligo,110,29,46,419
+2003,Multi development houses,Waterford,Waterford,108,32,82,762
+2003,Multi development houses,Westmeath,Westmeath,125,28,68,542
+2003,Multi development houses,Wexford,Wexford,104,74,97,932
+2003,Multi development houses,Wicklow,Wicklow,115,31,77,672
+2003,One off houses,Carlow,Carlow,216,348,75,348
+2003,One off houses,Cavan,Cavan,218,495,108,495
+2003,One off houses,Clare,Clare,204,673,137,673
+2003,One off houses,Cork,Cork,198,1810,358,1810
+2003,One off houses,Donegal,Donegal,199,1599,319,1599
+2003,One off houses,Dublin,Dublin,144,808,116,808
+2003,One off houses,Galway,Galway,199,2084,414,2084
+2003,One off houses,Kerry,Kerry,189,1125,213,1125
+2003,One off houses,Kildare,Kildare,216,468,101,468
+2003,One off houses,Kilkenny,Kilkenny,215,465,100,465
+2003,One off houses,Laois,Laois,209,321,67,321
+2003,One off houses,Leitrim,Leitrim,189,259,49,259
+2003,One off houses,Limerick,Limerick,202,687,139,687
+2003,One off houses,Longford,Longford,191,209,40,209
+2003,One off houses,Louth,Louth,224,353,79,353
+2003,One off houses,Mayo,Mayo,195,1229,240,1229
+2003,One off houses,Meath,Meath,215,423,91,423
+2003,One off houses,Monaghan,Monaghan,230,366,84,366
+2003,One off houses,Offaly,Offaly,206,374,77,374
+2003,One off houses,Roscommon,Roscommon,191,524,100,524
+2003,One off houses,Sligo,Sligo,194,377,73,377
+2003,One off houses,Waterford,Waterford,211,389,82,389
+2003,One off houses,Westmeath,Westmeath,205,331,68,331
+2003,One off houses,Wexford,Wexford,189,677,128,677
+2003,One off houses,Wicklow,Wicklow,190,221,42,221
+2003,Private flats/apartments,Carlow,Carlow,72,36,30,418
+2003,Private flats/apartments,Cavan,Cavan,81,16,11,135
+2003,Private flats/apartments,Clare,Clare,86,41,29,336
+2003,Private flats/apartments,Cork,Cork,80,147,117,1465
+2003,Private flats/apartments,Donegal,Donegal,69,60,30,437
+2003,Private flats/apartments,Dublin,Dublin,80,423,1289,16187
+2003,Private flats/apartments,Galway,Galway,74,48,17,231
+2003,Private flats/apartments,Kerry,Kerry,79,54,22,278
+2003,Private flats/apartments,Kildare,Kildare,83,62,76,912
+2003,Private flats/apartments,Kilkenny,Kilkenny,78,26,22,283
+2003,Private flats/apartments,Laois,Laois,109,25,24,221
+2003,Private flats/apartments,Leitrim,Leitrim,70,14,4,57
+2003,Private flats/apartments,Limerick,Limerick,87,34,23,264
+2003,Private flats/apartments,Longford,Longford,78,13,7,90
+2003,Private flats/apartments,Louth,Louth,76,40,54,708
+2003,Private flats/apartments,Mayo,Mayo,79,50,22,279
+2003,Private flats/apartments,Meath,Meath,81,58,63,781
+2003,Private flats/apartments,Monaghan,Monaghan,76,23,7,92
+2003,Private flats/apartments,Offaly,Offaly,63,20,4,63
+2003,Private flats/apartments,Roscommon,Roscommon,86,20,15,175
+2003,Private flats/apartments,Sligo,Sligo,91,24,30,330
+2003,Private flats/apartments,Waterford,Waterford,73,14,12,165
+2003,Private flats/apartments,Westmeath,Westmeath,57,20,20,349
+2003,Private flats/apartments,Wexford,Wexford,84,41,25,298
+2003,Private flats/apartments,Wicklow,Wicklow,91,35,32,353
+2004,Houses,Carlow,Carlow,144,260,127,879
+2004,Houses,Cavan,Cavan,160,968,425,2655
+2004,Houses,Clare,Clare,167,1047,313,1869
+2004,Houses,Cork,Cork,149,2670,985,6612
+2004,Houses,Donegal,Donegal,171,2798,834,4891
+2004,Houses,Dublin,Dublin,113,1189,687,6097
+2004,Houses,Galway,Galway,171,2517,680,3973
+2004,Houses,Kerry,Kerry,159,1624,499,3141
+2004,Houses,Kildare,Kildare,138,589,429,3110
+2004,Houses,Kilkenny,Kilkenny,135,630,366,2715
+2004,Houses,Laois,Laois,125,445,326,2603
+2004,Houses,Leitrim,Leitrim,155,504,193,1249
+2004,Houses,Limerick,Limerick,150,929,422,2809
+2004,Houses,Longford,Longford,160,416,156,973
+2004,Houses,Louth,Louth,164,546,179,1093
+2004,Houses,Mayo,Mayo,152,1580,529,3472
+2004,Houses,Meath,Meath,148,540,384,2597
+2004,Houses,Monaghan,Monaghan,185,684,245,1327
+2004,Houses,Offaly,Offaly,135,478,208,1539
+2004,Houses,Roscommon,Roscommon,155,877,326,2107
+2004,Houses,Sligo,Sligo,150,574,195,1296
+2004,Houses,Waterford,Waterford,168,623,200,1192
+2004,Houses,Westmeath,Westmeath,141,411,205,1449
+2004,Houses,Wexford,Wexford,137,1297,518,3769
+2004,Houses,Wicklow,Wicklow,141,226,156,1109
+2004,Multi development houses,Carlow,Carlow,117,22,75,641
+2004,Multi development houses,Cavan,Cavan,129,166,239,1853
+2004,Multi development houses,Clare,Clare,125,79,113,901
+2004,Multi development houses,Cork,Cork,120,237,500,4179
+2004,Multi development houses,Donegal,Donegal,134,264,316,2357
+2004,Multi development houses,Dublin,Dublin,107,197,545,5105
+2004,Multi development houses,Galway,Galway,121,95,187,1551
+2004,Multi development houses,Kerry,Kerry,131,174,221,1691
+2004,Multi development houses,Kildare,Kildare,120,61,311,2582
+2004,Multi development houses,Kilkenny,Kilkenny,111,47,236,2132
+2004,Multi development houses,Laois,Laois,108,40,238,2198
+2004,Multi development houses,Leitrim,Leitrim,132,60,106,805
+2004,Multi development houses,Limerick,Limerick,126,74,247,1954
+2004,Multi development houses,Longford,Longford,131,40,78,597
+2004,Multi development houses,Louth,Louth,111,47,66,594
+2004,Multi development houses,Mayo,Mayo,117,124,236,2016
+2004,Multi development houses,Meath,Meath,130,72,276,2129
+2004,Multi development houses,Monaghan,Monaghan,128,44,88,687
+2004,Multi development houses,Offaly,Offaly,107,37,117,1098
+2004,Multi development houses,Roscommon,Roscommon,131,87,172,1317
+2004,Multi development houses,Sligo,Sligo,114,50,88,772
+2004,Multi development houses,Waterford,Waterford,126,40,77,609
+2004,Multi development houses,Westmeath,Westmeath,114,29,122,1067
+2004,Multi development houses,Wexford,Wexford,108,112,280,2584
+2004,Multi development houses,Wicklow,Wicklow,130,27,118,910
+2004,One off houses,Carlow,Carlow,218,238,52,238
+2004,One off houses,Cavan,Cavan,232,802,186,802
+2004,One off houses,Clare,Clare,206,968,199,968
+2004,One off houses,Cork,Cork,199,2433,485,2433
+2004,One off houses,Donegal,Donegal,204,2534,517,2534
+2004,One off houses,Dublin,Dublin,143,992,142,992
+2004,One off houses,Galway,Galway,204,2422,493,2422
+2004,One off houses,Kerry,Kerry,192,1450,278,1450
+2004,One off houses,Kildare,Kildare,222,528,117,528
+2004,One off houses,Kilkenny,Kilkenny,223,583,130,583
+2004,One off houses,Laois,Laois,217,405,88,405
+2004,One off houses,Leitrim,Leitrim,196,444,87,444
+2004,One off houses,Limerick,Limerick,205,855,175,855
+2004,One off houses,Longford,Longford,207,376,78,376
+2004,One off houses,Louth,Louth,228,499,114,499
+2004,One off houses,Mayo,Mayo,201,1456,293,1456
+2004,One off houses,Meath,Meath,229,468,107,468
+2004,One off houses,Monaghan,Monaghan,245,640,157,640
+2004,One off houses,Offaly,Offaly,206,441,91,441
+2004,One off houses,Roscommon,Roscommon,195,790,154,790
+2004,One off houses,Sligo,Sligo,204,524,107,524
+2004,One off houses,Waterford,Waterford,211,583,123,583
+2004,One off houses,Westmeath,Westmeath,217,382,83,382
+2004,One off houses,Wexford,Wexford,201,1185,238,1185
+2004,One off houses,Wicklow,Wicklow,196,199,39,199
+2004,Private flats/apartments,Carlow,Carlow,70,24,16,229
+2004,Private flats/apartments,Cavan,Cavan,88,31,25,284
+2004,Private flats/apartments,Clare,Clare,81,43,26,321
+2004,Private flats/apartments,Cork,Cork,77,156,72,931
+2004,Private flats/apartments,Donegal,Donegal,75,60,31,411
+2004,Private flats/apartments,Dublin,Dublin,76,465,1376,18099
+2004,Private flats/apartments,Galway,Galway,71,62,18,252
+2004,Private flats/apartments,Kerry,Kerry,89,60,54,606
+2004,Private flats/apartments,Kildare,Kildare,75,62,88,1172
+2004,Private flats/apartments,Kilkenny,Kilkenny,77,43,42,548
+2004,Private flats/apartments,Laois,Laois,63,29,35,552
+2004,Private flats/apartments,Leitrim,Leitrim,83,20,16,192
+2004,Private flats/apartments,Limerick,Limerick,76,34,25,330
+2004,Private flats/apartments,Longford,Longford,43,8,1,23
+2004,Private flats/apartments,Louth,Louth,86,49,36,418
+2004,Private flats/apartments,Mayo,Mayo,71,67,26,367
+2004,Private flats/apartments,Meath,Meath,78,66,92,1175
+2004,Private flats/apartments,Monaghan,Monaghan,70,32,21,299
+2004,Private flats/apartments,Offaly,Offaly,68,21,11,162
+2004,Private flats/apartments,Roscommon,Roscommon,80,27,17,213
+2004,Private flats/apartments,Sligo,Sligo,81,34,37,458
+2004,Private flats/apartments,Waterford,Waterford,75,23,5,67
+2004,Private flats/apartments,Westmeath,Westmeath,79,28,45,569
+2004,Private flats/apartments,Wexford,Wexford,74,60,58,785
+2004,Private flats/apartments,Wicklow,Wicklow,76,37,40,528
+2005,Houses,Carlow,Carlow,153,283,189,1234
+2005,Houses,Cavan,Cavan,163,946,465,2851
+2005,Houses,Clare,Clare,160,687,287,1791
+2005,Houses,Cork,Cork,133,2449,1357,10234
+2005,Houses,Donegal,Donegal,165,2104,764,4640
+2005,Houses,Dublin,Dublin,127,1143,554,4377
+2005,Houses,Galway,Galway,169,1831,605,3571
+2005,Houses,Kerry,Kerry,159,1450,526,3318
+2005,Houses,Kildare,Kildare,150,591,455,3034
+2005,Houses,Kilkenny,Kilkenny,144,582,295,2046
+2005,Houses,Laois,Laois,136,423,361,2664
+2005,Houses,Leitrim,Leitrim,164,665,250,1529
+2005,Houses,Limerick,Limerick,149,812,440,2950
+2005,Houses,Longford,Longford,140,566,476,3401
+2005,Houses,Louth,Louth,147,566,333,2273
+2005,Houses,Mayo,Mayo,172,1362,434,2530
+2005,Houses,Meath,Meath,154,654,529,3425
+2005,Houses,Monaghan,Monaghan,158,601,307,1940
+2005,Houses,Offaly,Offaly,143,436,193,1346
+2005,Houses,Roscommon,Roscommon,150,1001,450,3005
+2005,Houses,Sligo,Sligo,143,615,327,2290
+2005,Houses,Waterford,Waterford,176,432,137,780
+2005,Houses,Westmeath,Westmeath,152,388,227,1497
+2005,Houses,Wexford,Wexford,165,1199,442,2671
+2005,Houses,Wicklow,Wicklow,150,682,269,1796
+2005,Multi development houses,Carlow,Carlow,132,24,129,975
+2005,Multi development houses,Cavan,Cavan,133,143,272,2048
+2005,Multi development houses,Clare,Clare,132,67,154,1171
+2005,Multi development houses,Cork,Cork,113,276,908,8061
+2005,Multi development houses,Donegal,Donegal,134,231,370,2767
+2005,Multi development houses,Dublin,Dublin,119,206,409,3440
+2005,Multi development houses,Galway,Galway,128,101,235,1841
+2005,Multi development houses,Kerry,Kerry,135,197,279,2065
+2005,Multi development houses,Kildare,Kildare,131,63,328,2506
+2005,Multi development houses,Kilkenny,Kilkenny,112,42,168,1506
+2005,Multi development houses,Laois,Laois,120,55,275,2296
+2005,Multi development houses,Leitrim,Leitrim,145,76,136,940
+2005,Multi development houses,Limerick,Limerick,126,80,279,2218
+2005,Multi development houses,Longford,Longford,129,129,383,2964
+2005,Multi development houses,Louth,Louth,118,47,207,1754
+2005,Multi development houses,Mayo,Mayo,133,117,171,1285
+2005,Multi development houses,Meath,Meath,135,61,383,2832
+2005,Multi development houses,Monaghan,Monaghan,123,71,174,1410
+2005,Multi development houses,Offaly,Offaly,111,29,104,939
+2005,Multi development houses,Roscommon,Roscommon,131,165,285,2169
+2005,Multi development houses,Sligo,Sligo,122,83,214,1758
+2005,Multi development houses,Waterford,Waterford,128,26,48,374
+2005,Multi development houses,Westmeath,Westmeath,128,35,147,1144
+2005,Multi development houses,Wexford,Wexford,130,94,204,1566
+2005,Multi development houses,Wicklow,Wicklow,123,81,147,1195
+2005,One off houses,Carlow,Carlow,232,259,60,259
+2005,One off houses,Cavan,Cavan,239,803,192,803
+2005,One off houses,Clare,Clare,215,620,133,620
+2005,One off houses,Cork,Cork,207,2173,450,2173
+2005,One off houses,Donegal,Donegal,210,1873,394,1873
+2005,One off houses,Dublin,Dublin,155,937,145,937
+2005,One off houses,Galway,Galway,214,1730,370,1730
+2005,One off houses,Kerry,Kerry,197,1253,247,1253
+2005,One off houses,Kildare,Kildare,241,528,127,528
+2005,One off houses,Kilkenny,Kilkenny,235,540,127,540
+2005,One off houses,Laois,Laois,234,368,86,368
+2005,One off houses,Leitrim,Leitrim,194,589,114,589
+2005,One off houses,Limerick,Limerick,219,732,160,732
+2005,One off houses,Longford,Longford,213,437,93,437
+2005,One off houses,Louth,Louth,243,519,126,519
+2005,One off houses,Mayo,Mayo,211,1245,263,1245
+2005,One off houses,Meath,Meath,246,593,146,593
+2005,One off houses,Monaghan,Monaghan,251,530,133,530
+2005,One off houses,Offaly,Offaly,219,407,89,407
+2005,One off houses,Roscommon,Roscommon,199,836,166,836
+2005,One off houses,Sligo,Sligo,214,532,114,532
+2005,One off houses,Waterford,Waterford,219,406,89,406
+2005,One off houses,Westmeath,Westmeath,227,353,80,353
+2005,One off houses,Wexford,Wexford,215,1105,238,1105
+2005,One off houses,Wicklow,Wicklow,203,601,122,601
+2005,Private flats/apartments,Carlow,Carlow,91,22,46,505
+2005,Private flats/apartments,Cavan,Cavan,80,44,28,349
+2005,Private flats/apartments,Clare,Clare,70,51,26,370
+2005,Private flats/apartments,Cork,Cork,78,181,150,1919
+2005,Private flats/apartments,Donegal,Donegal,97,82,76,783
+2005,Private flats/apartments,Dublin,Dublin,77,385,683,8856
+2005,Private flats/apartments,Galway,Galway,75,66,45,597
+2005,Private flats/apartments,Kerry,Kerry,79,59,27,343
+2005,Private flats/apartments,Kildare,Kildare,73,63,71,977
+2005,Private flats/apartments,Kilkenny,Kilkenny,80,29,26,326
+2005,Private flats/apartments,Laois,Laois,77,40,32,413
+2005,Private flats/apartments,Leitrim,Leitrim,78,27,20,255
+2005,Private flats/apartments,Limerick,Limerick,73,41,27,368
+2005,Private flats/apartments,Longford,Longford,72,39,19,264
+2005,Private flats/apartments,Louth,Louth,72,46,42,587
+2005,Private flats/apartments,Mayo,Mayo,87,64,54,623
+2005,Private flats/apartments,Meath,Meath,72,65,69,960
+2005,Private flats/apartments,Monaghan,Monaghan,80,36,38,475
+2005,Private flats/apartments,Offaly,Offaly,71,24,8,113
+2005,Private flats/apartments,Roscommon,Roscommon,79,49,21,265
+2005,Private flats/apartments,Sligo,Sligo,80,42,49,611
+2005,Private flats/apartments,Waterford,Waterford,69,15,5,72
+2005,Private flats/apartments,Westmeath,Westmeath,77,42,67,870
+2005,Private flats/apartments,Wexford,Wexford,85,57,32,377
+2005,Private flats/apartments,Wicklow,Wicklow,82,74,47,573
+2006,Houses,Carlow,Carlow,156,344,247,1588
+2006,Houses,Cavan,Cavan,171,765,461,2701
+2006,Houses,Clare,Clare,160,633,231,1445
+2006,Houses,Cork,Cork,148,2321,1064,7170
+2006,Houses,Donegal,Donegal,171,2086,775,4520
+2006,Houses,Dublin,Dublin,138,1154,509,3698
+2006,Houses,Galway,Galway,182,1993,629,3453
+2006,Houses,Kerry,Kerry,161,1335,490,3043
+2006,Houses,Kildare,Kildare,143,487,300,2098
+2006,Houses,Kilkenny,Kilkenny,160,573,274,1716
+2006,Houses,Laois,Laois,143,405,324,2264
+2006,Houses,Leitrim,Leitrim,178,340,133,749
+2006,Houses,Limerick,Limerick,150,624,295,1965
+2006,Houses,Longford,Longford,168,291,123,734
+2006,Houses,Louth,Louth,172,569,286,1666
+2006,Houses,Mayo,Mayo,170,1283,406,2389
+2006,Houses,Meath,Meath,173,593,311,1802
+2006,Houses,Monaghan,Monaghan,193,576,196,1017
+2006,Houses,Offaly,Offaly,151,464,271,1792
+2006,Houses,Roscommon,Roscommon,159,654,321,2024
+2006,Houses,Sligo,Sligo,173,387,159,920
+2006,Houses,Waterford,Waterford,185,460,170,919
+2006,Houses,Westmeath,Westmeath,147,468,243,1655
+2006,Houses,Wexford,Wexford,171,1197,517,3022
+2006,Houses,Wicklow,Wicklow,141,464,266,1885
+2006,Multi development houses,Carlow,Carlow,130,31,166,1275
+2006,Multi development houses,Cavan,Cavan,142,69,284,2005
+2006,Multi development houses,Clare,Clare,121,49,104,861
+2006,Multi development houses,Cork,Cork,121,221,614,5070
+2006,Multi development houses,Donegal,Donegal,140,260,376,2694
+2006,Multi development houses,Dublin,Dublin,130,221,360,2765
+2006,Multi development houses,Galway,Galway,134,107,210,1567
+2006,Multi development houses,Kerry,Kerry,130,156,243,1864
+2006,Multi development houses,Kildare,Kildare,119,55,198,1666
+2006,Multi development houses,Kilkenny,Kilkenny,121,51,145,1194
+2006,Multi development houses,Laois,Laois,123,37,233,1896
+2006,Multi development houses,Leitrim,Leitrim,157,19,67,428
+2006,Multi development houses,Limerick,Limerick,117,50,163,1391
+2006,Multi development houses,Longford,Longford,130,28,61,471
+2006,Multi development houses,Louth,Louth,142,67,165,1164
+2006,Multi development houses,Mayo,Mayo,121,87,144,1193
+2006,Multi development houses,Meath,Meath,130,41,163,1250
+2006,Multi development houses,Monaghan,Monaghan,118,44,57,485
+2006,Multi development houses,Offaly,Offaly,123,42,168,1370
+2006,Multi development houses,Roscommon,Roscommon,135,68,194,1438
+2006,Multi development houses,Sligo,Sligo,137,23,76,556
+2006,Multi development houses,Waterford,Waterford,147,37,73,496
+2006,Multi development houses,Westmeath,Westmeath,114,40,140,1227
+2006,Multi development houses,Wexford,Wexford,146,256,304,2081
+2006,Multi development houses,Wicklow,Wicklow,121,55,179,1476
+2006,One off houses,Carlow,Carlow,259,313,81,313
+2006,One off houses,Cavan,Cavan,254,696,177,696
+2006,One off houses,Clare,Clare,219,584,128,584
+2006,One off houses,Cork,Cork,214,2100,449,2100
+2006,One off houses,Donegal,Donegal,219,1826,399,1826
+2006,One off houses,Dublin,Dublin,160,933,149,933
+2006,One off houses,Galway,Galway,222,1886,418,1886
+2006,One off houses,Kerry,Kerry,209,1179,247,1179
+2006,One off houses,Kildare,Kildare,236,432,102,432
+2006,One off houses,Kilkenny,Kilkenny,247,522,129,522
+2006,One off houses,Laois,Laois,247,368,91,368
+2006,One off houses,Leitrim,Leitrim,206,321,66,321
+2006,One off houses,Limerick,Limerick,230,574,132,574
+2006,One off houses,Longford,Longford,236,263,62,263
+2006,One off houses,Louth,Louth,243,502,122,502
+2006,One off houses,Mayo,Mayo,218,1196,261,1196
+2006,One off houses,Meath,Meath,268,552,148,552
+2006,One off houses,Monaghan,Monaghan,261,532,139,532
+2006,One off houses,Offaly,Offaly,244,422,103,422
+2006,One off houses,Roscommon,Roscommon,218,586,128,586
+2006,One off houses,Sligo,Sligo,228,364,83,364
+2006,One off houses,Waterford,Waterford,229,423,97,423
+2006,One off houses,Westmeath,Westmeath,241,428,103,428
+2006,One off houses,Wexford,Wexford,226,941,213,941
+2006,One off houses,Wicklow,Wicklow,213,409,87,409
+2006,Private flats/apartments,Carlow,Carlow,109,17,13,119
+2006,Private flats/apartments,Cavan,Cavan,89,22,34,381
+2006,Private flats/apartments,Clare,Clare,79,28,21,265
+2006,Private flats/apartments,Cork,Cork,77,161,95,1232
+2006,Private flats/apartments,Donegal,Donegal,70,61,25,355
+2006,Private flats/apartments,Dublin,Dublin,84,280,709,8409
+2006,Private flats/apartments,Galway,Galway,78,64,25,321
+2006,Private flats/apartments,Kerry,Kerry,71,60,24,337
+2006,Private flats/apartments,Kildare,Kildare,81,42,42,517
+2006,Private flats/apartments,Kilkenny,Kilkenny,74,25,16,217
+2006,Private flats/apartments,Laois,Laois,68,18,23,338
+2006,Private flats/apartments,Leitrim,Leitrim,90,10,7,78
+2006,Private flats/apartments,Limerick,Limerick,88,33,33,376
+2006,Private flats/apartments,Longford,Longford,68,11,3,44
+2006,Private flats/apartments,Louth,Louth,72,40,40,557
+2006,Private flats/apartments,Mayo,Mayo,89,59,51,573
+2006,Private flats/apartments,Meath,Meath,76,43,40,528
+2006,Private flats/apartments,Monaghan,Monaghan,75,17,14,186
+2006,Private flats/apartments,Offaly,Offaly,72,30,31,429
+2006,Private flats/apartments,Roscommon,Roscommon,72,18,8,111
+2006,Private flats/apartments,Sligo,Sligo,80,22,11,138
+2006,Private flats/apartments,Waterford,Waterford,103,15,10,97
+2006,Private flats/apartments,Westmeath,Westmeath,70,40,16,228
+2006,Private flats/apartments,Wexford,Wexford,72,40,28,387
+2006,Private flats/apartments,Wicklow,Wicklow,83,51,71,851
+2007,Houses,Carlow,Carlow,170,364,282,1654
+2007,Houses,Cavan,Cavan,184,716,349,1896
+2007,Houses,Clare,Clare,152,613,352,2309
+2007,Houses,Cork,Cork,153,2394,1286,8385
+2007,Houses,Donegal,Donegal,169,1523,522,3085
+2007,Houses,Dublin,Dublin,155,1125,665,4283
+2007,Houses,Galway,Galway,179,1795,682,3818
+2007,Houses,Kerry,Kerry,172,1117,447,2592
+2007,Houses,Kildare,Kildare,142,651,492,3462
+2007,Houses,Kilkenny,Kilkenny,171,543,231,1352
+2007,Houses,Laois,Laois,164,528,308,1875
+2007,Houses,Leitrim,Leitrim,204,342,93,455
+2007,Houses,Limerick,Limerick,174,669,315,1815
+2007,Houses,Longford,Longford,178,339,167,936
+2007,Houses,Louth,Louth,151,504,329,2180
+2007,Houses,Mayo,Mayo,185,1073,347,1880
+2007,Houses,Meath,Meath,154,636,488,3170
+2007,Houses,Monaghan,Monaghan,178,600,259,1455
+2007,Houses,Offaly,Offaly,152,556,289,1901
+2007,Houses,Roscommon,Roscommon,180,596,232,1286
+2007,Houses,Sligo,Sligo,167,408,174,1042
+2007,Houses,Waterford,Waterford,147,450,222,1506
+2007,Houses,Westmeath,Westmeath,175,465,195,1112
+2007,Houses,Wexford,Wexford,174,1211,713,4088
+2007,Houses,Wicklow,Wicklow,164,472,162,985
+2007,Multi development houses,Carlow,Carlow,146,51,196,1341
+2007,Multi development houses,Cavan,Cavan,136,53,168,1233
+2007,Multi development houses,Clare,Clare,128,65,225,1761
+2007,Multi development houses,Cork,Cork,127,273,798,6264
+2007,Multi development houses,Donegal,Donegal,124,127,210,1689
+2007,Multi development houses,Dublin,Dublin,155,233,524,3391
+2007,Multi development houses,Galway,Galway,134,115,287,2138
+2007,Multi development houses,Kerry,Kerry,143,149,233,1624
+2007,Multi development houses,Kildare,Kildare,119,69,343,2880
+2007,Multi development houses,Kilkenny,Kilkenny,114,26,95,835
+2007,Multi development houses,Laois,Laois,130,38,180,1385
+2007,Multi development houses,Leitrim,Leitrim,131,9,16,122
+2007,Multi development houses,Limerick,Limerick,137,53,164,1199
+2007,Multi development houses,Longford,Longford,147,30,92,627
+2007,Multi development houses,Louth,Louth,122,63,213,1739
+2007,Multi development houses,Mayo,Mayo,137,66,120,873
+2007,Multi development houses,Meath,Meath,126,42,325,2576
+2007,Multi development houses,Monaghan,Monaghan,123,57,112,912
+2007,Multi development houses,Offaly,Offaly,113,43,157,1388
+2007,Multi development houses,Roscommon,Roscommon,133,46,98,736
+2007,Multi development houses,Sligo,Sligo,120,30,80,664
+2007,Multi development houses,Waterford,Waterford,109,45,120,1101
+2007,Multi development houses,Westmeath,Westmeath,121,28,82,675
+2007,Multi development houses,Wexford,Wexford,154,314,492,3191
+2007,Multi development houses,Wicklow,Wicklow,125,49,70,562
+2007,One off houses,Carlow,Carlow,278,313,87,313
+2007,One off houses,Cavan,Cavan,275,663,182,663
+2007,One off houses,Clare,Clare,230,548,126,548
+2007,One off houses,Cork,Cork,226,2120,480,2120
+2007,One off houses,Donegal,Donegal,223,1396,311,1396
+2007,One off houses,Dublin,Dublin,158,892,141,892
+2007,One off houses,Galway,Galway,235,1680,394,1680
+2007,One off houses,Kerry,Kerry,221,968,214,968
+2007,One off houses,Kildare,Kildare,256,582,149,582
+2007,One off houses,Kilkenny,Kilkenny,259,517,134,517
+2007,One off houses,Laois,Laois,261,490,128,490
+2007,One off houses,Leitrim,Leitrim,231,333,77,333
+2007,One off houses,Limerick,Limerick,247,616,152,616
+2007,One off houses,Longford,Longford,246,309,76,309
+2007,One off houses,Louth,Louth,261,441,115,441
+2007,One off houses,Mayo,Mayo,224,1007,226,1007
+2007,One off houses,Meath,Meath,274,594,163,594
+2007,One off houses,Monaghan,Monaghan,271,543,147,543
+2007,One off houses,Offaly,Offaly,257,513,132,513
+2007,One off houses,Roscommon,Roscommon,244,550,134,550
+2007,One off houses,Sligo,Sligo,251,378,95,378
+2007,One off houses,Waterford,Waterford,252,405,102,405
+2007,One off houses,Westmeath,Westmeath,256,437,112,437
+2007,One off houses,Wexford,Wexford,247,897,222,897
+2007,One off houses,Wicklow,Wicklow,217,423,92,423
+2007,Private flats/apartments,Carlow,Carlow,84,22,15,178
+2007,Private flats/apartments,Cavan,Cavan,84,30,41,490
+2007,Private flats/apartments,Clare,Clare,88,33,43,488
+2007,Private flats/apartments,Cork,Cork,85,158,128,1498
+2007,Private flats/apartments,Donegal,Donegal,89,65,70,784
+2007,Private flats/apartments,Dublin,Dublin,86,311,764,8911
+2007,Private flats/apartments,Galway,Galway,79,69,38,482
+2007,Private flats/apartments,Kerry,Kerry,88,55,40,454
+2007,Private flats/apartments,Kildare,Kildare,78,45,39,497
+2007,Private flats/apartments,Kilkenny,Kilkenny,92,24,13,142
+2007,Private flats/apartments,Laois,Laois,68,24,10,146
+2007,Private flats/apartments,Leitrim,Leitrim,75,8,4,53
+2007,Private flats/apartments,Limerick,Limerick,89,33,20,225
+2007,Private flats/apartments,Longford,Longford,97,9,3,31
+2007,Private flats/apartments,Louth,Louth,93,48,111,1188
+2007,Private flats/apartments,Mayo,Mayo,78,50,24,308
+2007,Private flats/apartments,Meath,Meath,73,63,88,1210
+2007,Private flats/apartments,Monaghan,Monaghan,78,20,31,399
+2007,Private flats/apartments,Offaly,Offaly,80,31,21,264
+2007,Private flats/apartments,Roscommon,Roscommon,78,19,7,90
+2007,Private flats/apartments,Sligo,Sligo,86,31,37,429
+2007,Private flats/apartments,Waterford,Waterford,87,18,16,184
+2007,Private flats/apartments,Westmeath,Westmeath,93,32,20,214
+2007,Private flats/apartments,Wexford,Wexford,101,51,55,547
+2007,Private flats/apartments,Wicklow,Wicklow,79,46,41,521
+2008,Houses,Carlow,Carlow,161,242,178,1106
+2008,Houses,Cavan,Cavan,190,582,305,1603
+2008,Houses,Clare,Clare,176,591,288,1640
+2008,Houses,Cork,Cork,171,1800,826,4822
+2008,Houses,Donegal,Donegal,166,1483,550,3312
+2008,Houses,Dublin,Dublin,163,751,597,3656
+2008,Houses,Galway,Galway,202,1155,406,2008
+2008,Houses,Kerry,Kerry,174,739,311,1789
+2008,Houses,Kildare,Kildare,170,559,268,1575
+2008,Houses,Kilkenny,Kilkenny,159,430,218,1372
+2008,Houses,Laois,Laois,167,395,221,1323
+2008,Houses,Leitrim,Leitrim,185,274,104,561
+2008,Houses,Limerick,Limerick,175,519,226,1294
+2008,Houses,Longford,Longford,191,225,85,445
+2008,Houses,Louth,Louth,130,450,538,4139
+2008,Houses,Mayo,Mayo,180,820,288,1599
+2008,Houses,Meath,Meath,175,577,298,1702
+2008,Houses,Monaghan,Monaghan,222,632,234,1056
+2008,Houses,Offaly,Offaly,170,407,191,1126
+2008,Houses,Roscommon,Roscommon,186,474,183,983
+2008,Houses,Sligo,Sligo,209,314,96,459
+2008,Houses,Waterford,Waterford,167,364,205,1226
+2008,Houses,Westmeath,Westmeath,170,345,218,1283
+2008,Houses,Wexford,Wexford,177,874,375,2114
+2008,Houses,Wicklow,Wicklow,153,451,284,1857
+2008,Multi development houses,Carlow,Carlow,135,32,121,896
+2008,Multi development houses,Cavan,Cavan,140,37,148,1058
+2008,Multi development houses,Clare,Clare,143,43,156,1092
+2008,Multi development houses,Cork,Cork,139,173,443,3195
+2008,Multi development houses,Donegal,Donegal,122,94,234,1923
+2008,Multi development houses,Dublin,Dublin,162,156,496,3061
+2008,Multi development houses,Galway,Galway,144,68,133,921
+2008,Multi development houses,Kerry,Kerry,134,90,153,1140
+2008,Multi development houses,Kildare,Kildare,127,51,136,1067
+2008,Multi development houses,Kilkenny,Kilkenny,118,27,114,969
+2008,Multi development houses,Laois,Laois,129,32,124,960
+2008,Multi development houses,Leitrim,Leitrim,136,15,41,302
+2008,Multi development houses,Limerick,Limerick,130,38,106,813
+2008,Multi development houses,Longford,Longford,126,18,30,238
+2008,Multi development houses,Louth,Louth,115,46,429,3735
+2008,Multi development houses,Mayo,Mayo,131,67,111,846
+2008,Multi development houses,Meath,Meath,127,18,145,1143
+2008,Multi development houses,Monaghan,Monaghan,149,40,69,464
+2008,Multi development houses,Offaly,Offaly,122,33,92,752
+2008,Multi development houses,Roscommon,Roscommon,128,38,70,547
+2008,Multi development houses,Sligo,Sligo,124,16,20,161
+2008,Multi development houses,Waterford,Waterford,134,33,120,895
+2008,Multi development houses,Westmeath,Westmeath,135,34,131,972
+2008,Multi development houses,Wexford,Wexford,143,156,200,1396
+2008,Multi development houses,Wicklow,Wicklow,133,50,193,1456
+2008,One off houses,Carlow,Carlow,271,210,57,210
+2008,One off houses,Cavan,Cavan,288,545,157,545
+2008,One off houses,Clare,Clare,241,548,132,548
+2008,One off houses,Cork,Cork,235,1627,383,1627
+2008,One off houses,Donegal,Donegal,228,1389,316,1389
+2008,One off houses,Dublin,Dublin,170,595,101,595
+2008,One off houses,Galway,Galway,251,1087,273,1087
+2008,One off houses,Kerry,Kerry,242,649,157,649
+2008,One off houses,Kildare,Kildare,260,508,132,508
+2008,One off houses,Kilkenny,Kilkenny,258,403,104,403
+2008,One off houses,Laois,Laois,267,363,97,363
+2008,One off houses,Leitrim,Leitrim,239,259,62,259
+2008,One off houses,Limerick,Limerick,249,481,120,481
+2008,One off houses,Longford,Longford,266,207,55,207
+2008,One off houses,Louth,Louth,270,404,109,404
+2008,One off houses,Mayo,Mayo,235,753,177,753
+2008,One off houses,Meath,Meath,274,559,153,559
+2008,One off houses,Monaghan,Monaghan,279,592,165,592
+2008,One off houses,Offaly,Offaly,265,374,99,374
+2008,One off houses,Roscommon,Roscommon,259,436,113,436
+2008,One off houses,Sligo,Sligo,255,298,76,298
+2008,One off houses,Waterford,Waterford,257,331,85,331
+2008,One off houses,Westmeath,Westmeath,280,311,87,311
+2008,One off houses,Wexford,Wexford,244,718,175,718
+2008,One off houses,Wicklow,Wicklow,229,401,92,401
+2008,Private flats/apartments,Carlow,Carlow,85,12,4,47
+2008,Private flats/apartments,Cavan,Cavan,79,32,13,164
+2008,Private flats/apartments,Clare,Clare,88,28,16,181
+2008,Private flats/apartments,Cork,Cork,88,125,84,951
+2008,Private flats/apartments,Donegal,Donegal,80,78,91,1142
+2008,Private flats/apartments,Dublin,Dublin,84,206,683,8115
+2008,Private flats/apartments,Galway,Galway,82,42,23,282
+2008,Private flats/apartments,Kerry,Kerry,93,40,25,269
+2008,Private flats/apartments,Kildare,Kildare,85,53,52,613
+2008,Private flats/apartments,Kilkenny,Kilkenny,91,29,23,252
+2008,Private flats/apartments,Laois,Laois,83,25,18,216
+2008,Private flats/apartments,Leitrim,Leitrim,93,14,4,43
+2008,Private flats/apartments,Limerick,Limerick,91,30,21,232
+2008,Private flats/apartments,Longford,Longford,0,4,0,7
+2008,Private flats/apartments,Louth,Louth,85,45,185,2181
+2008,Private flats/apartments,Mayo,Mayo,81,36,11,136
+2008,Private flats/apartments,Meath,Meath,82,26,19,232
+2008,Private flats/apartments,Monaghan,Monaghan,92,21,12,130
+2008,Private flats/apartments,Offaly,Offaly,78,21,16,205
+2008,Private flats/apartments,Roscommon,Roscommon,95,15,12,126
+2008,Private flats/apartments,Sligo,Sligo,89,27,27,302
+2008,Private flats/apartments,Waterford,Waterford,98,16,5,51
+2008,Private flats/apartments,Westmeath,Westmeath,91,34,70,767
+2008,Private flats/apartments,Wexford,Wexford,91,38,38,419
+2008,Private flats/apartments,Wicklow,Wicklow,87,41,56,642
+2009,Houses,Carlow,Carlow,168,147,81,482
+2009,Houses,Cavan,Cavan,217,348,130,599
+2009,Houses,Clare,Clare,194,428,149,767
+2009,Houses,Cork,Cork,187,1153,537,2879
+2009,Houses,Donegal,Donegal,185,684,225,1216
+2009,Houses,Dublin,Dublin,148,501,305,2066
+2009,Houses,Galway,Galway,186,684,268,1438
+2009,Houses,Kerry,Kerry,175,467,174,993
+2009,Houses,Kildare,Kildare,156,330,224,1432
+2009,Houses,Kilkenny,Kilkenny,175,267,114,651
+2009,Houses,Laois,Laois,121,183,202,1675
+2009,Houses,Leitrim,Leitrim,253,136,38,150
+2009,Houses,Limerick,Limerick,165,327,180,1094
+2009,Houses,Longford,Longford,199,92,39,196
+2009,Houses,Louth,Louth,148,265,260,1752
+2009,Houses,Mayo,Mayo,215,520,164,763
+2009,Houses,Meath,Meath,175,398,218,1243
+2009,Houses,Monaghan,Monaghan,176,226,129,734
+2009,Houses,Offaly,Offaly,185,185,79,427
+2009,Houses,Roscommon,Roscommon,232,235,72,310
+2009,Houses,Sligo,Sligo,162,222,153,945
+2009,Houses,Waterford,Waterford,201,232,75,374
+2009,Houses,Westmeath,Westmeath,201,176,62,309
+2009,Houses,Wexford,Wexford,185,518,209,1127
+2009,Houses,Wicklow,Wicklow,147,293,217,1481
+2009,Multi development houses,Carlow,Carlow,134,17,47,352
+2009,Multi development houses,Cavan,Cavan,134,18,36,269
+2009,Multi development houses,Clare,Clare,138,30,51,369
+2009,Multi development houses,Cork,Cork,153,91,278,1817
+2009,Multi development houses,Donegal,Donegal,113,35,64,567
+2009,Multi development houses,Dublin,Dublin,140,104,233,1669
+2009,Multi development houses,Galway,Galway,130,33,102,787
+2009,Multi development houses,Kerry,Kerry,128,50,74,576
+2009,Multi development houses,Kildare,Kildare,131,54,152,1156
+2009,Multi development houses,Kilkenny,Kilkenny,115,16,46,400
+2009,Multi development houses,Laois,Laois,107,25,162,1517
+2009,Multi development houses,Leitrim,Leitrim,125,2,2,16
+2009,Multi development houses,Limerick,Limerick,129,25,102,792
+2009,Multi development houses,Longford,Longford,127,6,14,110
+2009,Multi development houses,Louth,Louth,128,26,194,1513
+2009,Multi development houses,Mayo,Mayo,149,26,40,269
+2009,Multi development houses,Meath,Meath,135,29,118,874
+2009,Multi development houses,Monaghan,Monaghan,135,18,71,526
+2009,Multi development houses,Offaly,Offaly,126,12,32,254
+2009,Multi development houses,Roscommon,Roscommon,140,11,12,86
+2009,Multi development houses,Sligo,Sligo,132,17,98,740
+2009,Multi development houses,Waterford,Waterford,127,15,20,157
+2009,Multi development houses,Westmeath,Westmeath,122,15,18,148
+2009,Multi development houses,Wexford,Wexford,145,67,98,676
+2009,Multi development houses,Wicklow,Wicklow,127,31,155,1219
+2009,One off houses,Carlow,Carlow,254,130,33,130
+2009,One off houses,Cavan,Cavan,285,330,94,330
+2009,One off houses,Clare,Clare,246,398,98,398
+2009,One off houses,Cork,Cork,244,1062,259,1062
+2009,One off houses,Donegal,Donegal,247,649,160,649
+2009,One off houses,Dublin,Dublin,184,397,73,397
+2009,One off houses,Galway,Galway,255,651,166,651
+2009,One off houses,Kerry,Kerry,240,417,100,417
+2009,One off houses,Kildare,Kildare,264,276,73,276
+2009,One off houses,Kilkenny,Kilkenny,271,251,68,251
+2009,One off houses,Laois,Laois,253,158,40,158
+2009,One off houses,Leitrim,Leitrim,261,134,35,134
+2009,One off houses,Limerick,Limerick,258,302,78,302
+2009,One off houses,Longford,Longford,302,86,26,86
+2009,One off houses,Louth,Louth,276,239,66,239
+2009,One off houses,Mayo,Mayo,249,494,123,494
+2009,One off houses,Meath,Meath,271,369,100,369
+2009,One off houses,Monaghan,Monaghan,279,208,58,208
+2009,One off houses,Offaly,Offaly,272,173,47,173
+2009,One off houses,Roscommon,Roscommon,272,224,61,224
+2009,One off houses,Sligo,Sligo,268,205,55,205
+2009,One off houses,Waterford,Waterford,253,217,55,217
+2009,One off houses,Westmeath,Westmeath,273,161,44,161
+2009,One off houses,Wexford,Wexford,246,451,111,451
+2009,One off houses,Wicklow,Wicklow,237,262,62,262
+2009,Private flats/apartments,Carlow,Carlow,80,10,18,226
+2009,Private flats/apartments,Cavan,Cavan,43,9,4,93
+2009,Private flats/apartments,Clare,Clare,87,27,19,219
+2009,Private flats/apartments,Cork,Cork,96,71,87,903
+2009,Private flats/apartments,Donegal,Donegal,82,38,26,317
+2009,Private flats/apartments,Dublin,Dublin,95,155,545,5710
+2009,Private flats/apartments,Galway,Galway,92,33,20,218
+2009,Private flats/apartments,Kerry,Kerry,107,29,27,253
+2009,Private flats/apartments,Kildare,Kildare,90,32,36,401
+2009,Private flats/apartments,Kilkenny,Kilkenny,92,17,8,87
+2009,Private flats/apartments,Laois,Laois,95,15,31,326
+2009,Private flats/apartments,Leitrim,Leitrim,0,3,0,5
+2009,Private flats/apartments,Limerick,Limerick,83,21,9,109
+2009,Private flats/apartments,Longford,Longford,0,3,0,3
+2009,Private flats/apartments,Louth,Louth,103,30,104,1012
+2009,Private flats/apartments,Mayo,Mayo,98,35,39,398
+2009,Private flats/apartments,Meath,Meath,85,27,32,375
+2009,Private flats/apartments,Monaghan,Monaghan,104,11,28,268
+2009,Private flats/apartments,Offaly,Offaly,77,11,9,117
+2009,Private flats/apartments,Roscommon,Roscommon,118,5,2,17
+2009,Private flats/apartments,Sligo,Sligo,81,16,45,557
+2009,Private flats/apartments,Waterford,Waterford,154,7,2,13
+2009,Private flats/apartments,Westmeath,Westmeath,107,17,13,121
+2009,Private flats/apartments,Wexford,Wexford,100,39,22,221
+2009,Private flats/apartments,Wicklow,Wicklow,84,31,48,573
+2010,Houses,Carlow,Carlow,211,112,39,185
+2010,Houses,Cavan,Cavan,152,81,67,440
+2010,Houses,Clare,Clare,206,292,91,441
+2010,Houses,Cork,Cork,215,718,209,973
+2010,Houses,Donegal,Donegal,188,440,179,954
+2010,Houses,Dublin,Dublin,162,292,167,1032
+2010,Houses,Galway,Galway,208,517,152,731
+2010,Houses,Kerry,Kerry,229,304,78,341
+2010,Houses,Kildare,Kildare,163,187,113,694
+2010,Houses,Kilkenny,Kilkenny,247,171,46,186
+2010,Houses,Laois,Laois,240,148,47,196
+2010,Houses,Leitrim,Leitrim,245,43,12,49
+2010,Houses,Limerick,Limerick,189,210,84,445
+2010,Houses,Longford,Longford,316,57,18,57
+2010,Houses,Louth,Louth,159,173,65,409
+2010,Houses,Mayo,Mayo,215,361,98,455
+2010,Houses,Meath,Meath,172,283,158,920
+2010,Houses,Monaghan,Monaghan,172,169,85,494
+2010,Houses,Offaly,Offaly,250,106,32,128
+2010,Houses,Roscommon,Roscommon,247,133,38,154
+2010,Houses,Sligo,Sligo,191,128,45,236
+2010,Houses,Waterford,Waterford,237,117,33,139
+2010,Houses,Westmeath,Westmeath,216,90,25,116
+2010,Houses,Wexford,Wexford,184,309,112,610
+2010,Houses,Wicklow,Wicklow,171,157,66,385
+2010,Multi development houses,Carlow,Carlow,143,4,11,77
+2010,Multi development houses,Cavan,Cavan,125,8,46,367
+2010,Multi development houses,Clare,Clare,147,21,25,170
+2010,Multi development houses,Cork,Cork,153,39,45,294
+2010,Multi development houses,Donegal,Donegal,129,20,69,534
+2010,Multi development houses,Dublin,Dublin,153,53,121,793
+2010,Multi development houses,Galway,Galway,127,15,29,229
+2010,Multi development houses,Kerry,Kerry,185,17,10,54
+2010,Multi development houses,Kildare,Kildare,128,17,67,524
+2010,Multi development houses,Kilkenny,Kilkenny,118,2,2,17
+2010,Multi development houses,Laois,Laois,189,5,10,53
+2010,Multi development houses,Leitrim,Leitrim,286,1,2,7
+2010,Multi development houses,Limerick,Limerick,135,10,33,245
+2010,Multi development houses,Louth,Louth,93,10,23,246
+2010,Multi development houses,Mayo,Mayo,149,20,17,114
+2010,Multi development houses,Meath,Meath,136,19,89,656
+2010,Multi development houses,Monaghan,Monaghan,124,13,42,338
+2010,Multi development houses,Offaly,Offaly,185,5,5,27
+2010,Multi development houses,Roscommon,Roscommon,125,3,3,24
+2010,Multi development houses,Sligo,Sligo,106,5,12,113
+2010,Multi development houses,Waterford,Waterford,160,3,4,25
+2010,Multi development houses,Westmeath,Westmeath,103,3,3,29
+2010,Multi development houses,Wexford,Wexford,129,25,42,326
+2010,Multi development houses,Wicklow,Wicklow,132,22,33,250
+2010,One off houses,Carlow,Carlow,259,108,28,108
+2010,One off houses,Cavan,Cavan,288,73,21,73
+2010,One off houses,Clare,Clare,244,271,66,271
+2010,One off houses,Cork,Cork,242,679,164,679
+2010,One off houses,Donegal,Donegal,262,420,110,420
+2010,One off houses,Dublin,Dublin,192,239,46,239
+2010,One off houses,Galway,Galway,247,502,124,502
+2010,One off houses,Kerry,Kerry,237,287,68,287
+2010,One off houses,Kildare,Kildare,271,170,46,170
+2010,One off houses,Kilkenny,Kilkenny,266,169,45,169
+2010,One off houses,Laois,Laois,259,143,37,143
+2010,One off houses,Leitrim,Leitrim,238,42,10,42
+2010,One off houses,Limerick,Limerick,255,200,51,200
+2010,One off houses,Longford,Longford,316,57,18,57
+2010,One off houses,Louth,Louth,258,163,42,163
+2010,One off houses,Mayo,Mayo,238,341,81,341
+2010,One off houses,Meath,Meath,261,264,69,264
+2010,One off houses,Monaghan,Monaghan,276,156,43,156
+2010,One off houses,Offaly,Offaly,257,101,26,101
+2010,One off houses,Roscommon,Roscommon,277,130,36,130
+2010,One off houses,Sligo,Sligo,268,123,33,123
+2010,One off houses,Waterford,Waterford,254,114,29,114
+2010,One off houses,Westmeath,Westmeath,253,87,22,87
+2010,One off houses,Wexford,Wexford,246,284,70,284
+2010,One off houses,Wicklow,Wicklow,244,135,33,135
+2010,Private flats/apartments,Carlow,Carlow,167,3,1,6
+2010,Private flats/apartments,Cavan,Cavan,100,7,1,10
+2010,Private flats/apartments,Clare,Clare,48,11,1,21
+2010,Private flats/apartments,Cork,Cork,77,27,7,91
+2010,Private flats/apartments,Donegal,Donegal,95,16,32,336
+2010,Private flats/apartments,Dublin,Dublin,93,80,335,3621
+2010,Private flats/apartments,Galway,Galway,100,10,7,70
+2010,Private flats/apartments,Kerry,Kerry,87,12,2,23
+2010,Private flats/apartments,Kildare,Kildare,86,16,28,327
+2010,Private flats/apartments,Kilkenny,Kilkenny,67,4,1,15
+2010,Private flats/apartments,Laois,Laois,0,2,0,3
+2010,Private flats/apartments,Leitrim,Leitrim,0,1,0,1
+2010,Private flats/apartments,Limerick,Limerick,79,11,3,38
+2010,Private flats/apartments,Longford,Longford,0,1,0,1
+2010,Private flats/apartments,Louth,Louth,86,17,25,291
+2010,Private flats/apartments,Mayo,Mayo,90,13,6,67
+2010,Private flats/apartments,Meath,Meath,69,19,32,465
+2010,Private flats/apartments,Monaghan,Monaghan,88,8,10,113
+2010,Private flats/apartments,Offaly,Offaly,200,5,1,5
+2010,Private flats/apartments,Roscommon,Roscommon,125,3,1,8
+2010,Private flats/apartments,Sligo,Sligo,103,9,3,29
+2010,Private flats/apartments,Waterford,Waterford,118,6,2,17
+2010,Private flats/apartments,Westmeath,Westmeath,100,7,3,30
+2010,Private flats/apartments,Wexford,Wexford,89,20,5,56
+2010,Private flats/apartments,Wicklow,Wicklow,103,19,76,739
+2011,Houses,Carlow,Carlow,213,58,34,160
+2011,Houses,Cavan,Cavan,210,54,22,105
+2011,Houses,Clare,Clare,241,193,52,216
+2011,Houses,Cork,Cork,200,619,215,1076
+2011,Houses,Donegal,Donegal,202,339,131,650
+2011,Houses,Dublin,Dublin,131,233,250,1905
+2011,Houses,Galway,Galway,235,367,103,439
+2011,Houses,Kerry,Kerry,228,214,53,232
+2011,Houses,Kildare,Kildare,246,138,45,183
+2011,Houses,Kilkenny,Kilkenny,177,135,50,282
+2011,Houses,Laois,Laois,223,92,29,130
+2011,Houses,Leitrim,Leitrim,233,40,10,43
+2011,Houses,Limerick,Limerick,222,155,41,185
+2011,Houses,Longford,Longford,286,35,10,35
+2011,Houses,Louth,Louth,185,113,33,178
+2011,Houses,Mayo,Mayo,222,268,74,333
+2011,Houses,Meath,Meath,164,238,136,828
+2011,Houses,Monaghan,Monaghan,243,118,36,148
+2011,Houses,Offaly,Offaly,201,111,39,194
+2011,Houses,Roscommon,Roscommon,252,92,27,107
+2011,Houses,Sligo,Sligo,214,95,30,140
+2011,Houses,Waterford,Waterford,165,96,34,206
+2011,Houses,Westmeath,Westmeath,209,104,40,191
+2011,Houses,Wexford,Wexford,179,236,91,507
+2011,Houses,Wicklow,Wicklow,200,90,22,110
+2011,Multi development houses,Carlow,Carlow,182,8,20,110
+2011,Multi development houses,Cavan,Cavan,115,1,6,52
+2011,Multi development houses,Clare,Clare,194,8,6,31
+2011,Multi development houses,Cork,Cork,153,34,75,491
+2011,Multi development houses,Donegal,Donegal,145,13,47,324
+2011,Multi development houses,Dublin,Dublin,124,46,213,1718
+2011,Multi development houses,Galway,Galway,183,10,15,82
+2011,Multi development houses,Kerry,Kerry,185,9,5,27
+2011,Multi development houses,Kildare,Kildare,200,15,12,60
+2011,Multi development houses,Kilkenny,Kilkenny,112,5,17,152
+2011,Multi development houses,Laois,Laois,122,3,5,41
+2011,Multi development houses,Leitrim,Leitrim,250,1,1,4
+2011,Multi development houses,Limerick,Limerick,139,6,5,36
+2011,Multi development houses,Louth,Louth,99,6,7,71
+2011,Multi development houses,Mayo,Mayo,176,9,13,74
+2011,Multi development houses,Meath,Meath,127,16,77,606
+2011,Multi development houses,Monaghan,Monaghan,147,4,5,34
+2011,Multi development houses,Offaly,Offaly,132,8,12,91
+2011,Multi development houses,Roscommon,Roscommon,125,1,2,16
+2011,Multi development houses,Sligo,Sligo,104,3,5,48
+2011,Multi development houses,Waterford,Waterford,113,5,13,115
+2011,Multi development houses,Westmeath,Westmeath,156,9,15,96
+2011,Multi development houses,Wexford,Wexford,131,20,38,291
+2011,Multi development houses,Wicklow,Wicklow,138,9,4,29
+2011,One off houses,Carlow,Carlow,280,50,14,50
+2011,One off houses,Cavan,Cavan,302,53,16,53
+2011,One off houses,Clare,Clare,249,185,46,185
+2011,One off houses,Cork,Cork,241,585,141,585
+2011,One off houses,Donegal,Donegal,258,326,84,326
+2011,One off houses,Dublin,Dublin,193,187,36,187
+2011,One off houses,Galway,Galway,246,357,88,357
+2011,One off houses,Kerry,Kerry,234,205,48,205
+2011,One off houses,Kildare,Kildare,268,123,33,123
+2011,One off houses,Kilkenny,Kilkenny,254,130,33,130
+2011,One off houses,Laois,Laois,270,89,24,89
+2011,One off houses,Leitrim,Leitrim,256,39,10,39
+2011,One off houses,Limerick,Limerick,242,149,36,149
+2011,One off houses,Longford,Longford,286,35,10,35
+2011,One off houses,Louth,Louth,243,107,26,107
+2011,One off houses,Mayo,Mayo,236,259,61,259
+2011,One off houses,Meath,Meath,266,222,59,222
+2011,One off houses,Monaghan,Monaghan,272,114,31,114
+2011,One off houses,Offaly,Offaly,272,103,28,103
+2011,One off houses,Roscommon,Roscommon,275,91,25,91
+2011,One off houses,Sligo,Sligo,272,92,25,92
+2011,One off houses,Waterford,Waterford,231,91,21,91
+2011,One off houses,Westmeath,Westmeath,263,95,25,95
+2011,One off houses,Wexford,Wexford,245,216,53,216
+2011,One off houses,Wicklow,Wicklow,222,81,18,81
+2011,Private flats/apartments,Carlow,Carlow,143,2,1,7
+2011,Private flats/apartments,Cavan,Cavan,0,5,0,6
+2011,Private flats/apartments,Clare,Clare,118,9,2,17
+2011,Private flats/apartments,Cork,Cork,114,26,23,202
+2011,Private flats/apartments,Donegal,Donegal,59,6,1,17
+2011,Private flats/apartments,Dublin,Dublin,105,63,213,2031
+2011,Private flats/apartments,Galway,Galway,200,4,1,5
+2011,Private flats/apartments,Kerry,Kerry,111,6,1,9
+2011,Private flats/apartments,Kildare,Kildare,0,7,0,7
+2011,Private flats/apartments,Kilkenny,Kilkenny,83,8,2,24
+2011,Private flats/apartments,Laois,Laois,200,5,1,5
+2011,Private flats/apartments,Leitrim,Leitrim,0,1,0,1
+2011,Private flats/apartments,Limerick,Limerick,91,8,1,11
+2011,Private flats/apartments,Longford,Longford,0,2,0,2
+2011,Private flats/apartments,Louth,Louth,82,9,5,61
+2011,Private flats/apartments,Mayo,Mayo,0,3,0,3
+2011,Private flats/apartments,Meath,Meath,91,12,2,22
+2011,Private flats/apartments,Monaghan,Monaghan,0,1,0,1
+2011,Private flats/apartments,Offaly,Offaly,0,4,0,4
+2011,Private flats/apartments,Roscommon,Roscommon,0,1,0,1
+2011,Private flats/apartments,Sligo,Sligo,100,4,2,20
+2011,Private flats/apartments,Waterford,Waterford,0,3,0,3
+2011,Private flats/apartments,Westmeath,Westmeath,95,9,2,21
+2011,Private flats/apartments,Wexford,Wexford,111,9,1,9
+2011,Private flats/apartments,Wicklow,Wicklow,0,4,0,5
+2012,Houses,Carlow,Carlow,235,33,8,34
+2012,Houses,Cavan,Cavan,268,56,15,56
+2012,Houses,Clare,Clare,230,128,32,139
+2012,Houses,Cork,Cork,228,511,129,565
+2012,Houses,Donegal,Donegal,207,274,84,405
+2012,Houses,Dublin,Dublin,153,189,167,1095
+2012,Houses,Galway,Galway,230,218,62,269
+2012,Houses,Kerry,Kerry,214,154,51,238
+2012,Houses,Kildare,Kildare,219,89,25,114
+2012,Houses,Kilkenny,Kilkenny,250,107,29,116
+2012,Houses,Laois,Laois,239,67,16,67
+2012,Houses,Leitrim,Leitrim,278,18,5,18
+2012,Houses,Limerick,Limerick,220,140,44,200
+2012,Houses,Longford,Longford,279,42,12,43
+2012,Houses,Louth,Louth,160,123,48,300
+2012,Houses,Mayo,Mayo,247,180,46,186
+2012,Houses,Meath,Meath,234,160,50,214
+2012,Houses,Monaghan,Monaghan,250,96,27,108
+2012,Houses,Offaly,Offaly,279,60,17,61
+2012,Houses,Roscommon,Roscommon,257,83,27,105
+2012,Houses,Sligo,Sligo,247,78,20,81
+2012,Houses,Waterford,Waterford,235,65,16,68
+2012,Houses,Westmeath,Westmeath,183,82,39,213
+2012,Houses,Wexford,Wexford,237,188,51,215
+2012,Houses,Wicklow,Wicklow,188,90,26,138
+2012,Multi development houses,Carlow,Carlow,0,1,0,2
+2012,Multi development houses,Clare,Clare,125,5,2,16
+2012,Multi development houses,Cork,Cork,156,10,10,64
+2012,Multi development houses,Donegal,Donegal,122,8,17,139
+2012,Multi development houses,Dublin,Dublin,142,40,134,946
+2012,Multi development houses,Galway,Galway,143,5,8,56
+2012,Multi development houses,Kerry,Kerry,168,11,16,95
+2012,Multi development houses,Kildare,Kildare,161,6,5,31
+2012,Multi development houses,Kilkenny,Kilkenny,143,5,2,14
+2012,Multi development houses,Limerick,Limerick,182,6,12,66
+2012,Multi development houses,Longford,Longford,500,1,1,2
+2012,Multi development houses,Louth,Louth,119,8,22,185
+2012,Multi development houses,Mayo,Mayo,200,4,2,10
+2012,Multi development houses,Meath,Meath,143,9,9,63
+2012,Multi development houses,Monaghan,Monaghan,143,2,2,14
+2012,Multi development houses,Offaly,Offaly,0,1,0,2
+2012,Multi development houses,Roscommon,Roscommon,241,7,7,29
+2012,Multi development houses,Sligo,Sligo,167,3,1,6
+2012,Multi development houses,Waterford,Waterford,200,2,1,5
+2012,Multi development houses,Westmeath,Westmeath,142,3,19,134
+2012,Multi development houses,Wexford,Wexford,171,14,7,41
+2012,Multi development houses,Wicklow,Wicklow,113,5,6,53
+2012,One off houses,Carlow,Carlow,250,32,8,32
+2012,One off houses,Cavan,Cavan,268,56,15,56
+2012,One off houses,Clare,Clare,236,123,29,123
+2012,One off houses,Cork,Cork,238,501,119,501
+2012,One off houses,Donegal,Donegal,248,266,66,266
+2012,One off houses,Dublin,Dublin,215,149,32,149
+2012,One off houses,Galway,Galway,254,213,54,213
+2012,One off houses,Kerry,Kerry,245,143,35,143
+2012,One off houses,Kildare,Kildare,241,83,20,83
+2012,One off houses,Kilkenny,Kilkenny,265,102,27,102
+2012,One off houses,Laois,Laois,239,67,16,67
+2012,One off houses,Leitrim,Leitrim,278,18,5,18
+2012,One off houses,Limerick,Limerick,239,134,32,134
+2012,One off houses,Longford,Longford,268,41,11,41
+2012,One off houses,Louth,Louth,235,115,27,115
+2012,One off houses,Mayo,Mayo,250,176,44,176
+2012,One off houses,Meath,Meath,272,151,41,151
+2012,One off houses,Monaghan,Monaghan,266,94,25,94
+2012,One off houses,Offaly,Offaly,271,59,16,59
+2012,One off houses,Roscommon,Roscommon,263,76,20,76
+2012,One off houses,Sligo,Sligo,253,75,19,75
+2012,One off houses,Waterford,Waterford,238,63,15,63
+2012,One off houses,Westmeath,Westmeath,253,79,20,79
+2012,One off houses,Wexford,Wexford,253,174,44,174
+2012,One off houses,Wicklow,Wicklow,235,85,20,85
+2012,Private flats/apartments,Carlow,Carlow,143,4,1,7
+2012,Private flats/apartments,Cavan,Cavan,0,1,0,1
+2012,Private flats/apartments,Clare,Clare,111,9,1,9
+2012,Private flats/apartments,Cork,Cork,70,24,4,57
+2012,Private flats/apartments,Donegal,Donegal,100,8,1,10
+2012,Private flats/apartments,Dublin,Dublin,100,42,60,599
+2012,Private flats/apartments,Galway,Galway,111,8,1,9
+2012,Private flats/apartments,Kerry,Kerry,0,5,0,5
+2012,Private flats/apartments,Kildare,Kildare,125,8,1,8
+2012,Private flats/apartments,Kilkenny,Kilkenny,0,5,0,5
+2012,Private flats/apartments,Laois,Laois,0,2,0,2
+2012,Private flats/apartments,Limerick,Limerick,83,12,1,12
+2012,Private flats/apartments,Louth,Louth,0,8,0,8
+2012,Private flats/apartments,Meath,Meath,125,8,1,8
+2012,Private flats/apartments,Monaghan,Monaghan,0,4,0,4
+2012,Private flats/apartments,Offaly,Offaly,0,3,0,3
+2012,Private flats/apartments,Waterford,Waterford,0,4,0,5
+2012,Private flats/apartments,Westmeath,Westmeath,63,5,1,16
+2012,Private flats/apartments,Wexford,Wexford,77,13,1,13
+2012,Private flats/apartments,Wicklow,Wicklow,67,10,1,15
+2013,Houses,Carlow,Carlow,225,37,9,40
+2013,Houses,Cavan,Cavan,283,46,13,46
+2013,Houses,Clare,Clare,231,102,27,117
+2013,Houses,Cork,Cork,216,403,121,561
+2013,Houses,Donegal,Donegal,242,270,73,302
+2013,Houses,Dublin,Dublin,142,297,296,2084
+2013,Houses,Galway,Galway,234,199,50,214
+2013,Houses,Kerry,Kerry,212,147,39,184
+2013,Houses,Kildare,Kildare,156,85,47,302
+2013,Houses,Kilkenny,Kilkenny,196,96,81,414
+2013,Houses,Laois,Laois,232,54,13,56
+2013,Houses,Leitrim,Leitrim,227,18,5,22
+2013,Houses,Limerick,Limerick,214,135,33,154
+2013,Houses,Longford,Longford,250,26,10,40
+2013,Houses,Louth,Louth,241,86,21,87
+2013,Houses,Mayo,Mayo,252,155,39,155
+2013,Houses,Meath,Meath,197,137,57,289
+2013,Houses,Monaghan,Monaghan,258,88,24,93
+2013,Houses,Offaly,Offaly,267,44,12,45
+2013,Houses,Roscommon,Roscommon,267,45,12,45
+2013,Houses,Sligo,Sligo,234,63,15,64
+2013,Houses,Waterford,Waterford,262,64,27,103
+2013,Houses,Westmeath,Westmeath,233,58,17,73
+2013,Houses,Wexford,Wexford,246,183,49,199
+2013,Houses,Wicklow,Wicklow,194,72,19,98
+2013,Multi development houses,Carlow,Carlow,200,2,1,5
+2013,Multi development houses,Clare,Clare,176,2,3,17
+2013,Multi development houses,Cork,Cork,158,19,28,177
+2013,Multi development houses,Donegal,Donegal,200,8,8,40
+2013,Multi development houses,Dublin,Dublin,133,78,248,1865
+2013,Multi development houses,Galway,Galway,56,3,1,18
+2013,Multi development houses,Kerry,Kerry,195,4,8,41
+2013,Multi development houses,Kildare,Kildare,125,7,28,224
+2013,Multi development houses,Kilkenny,Kilkenny,173,5,56,323
+2013,Multi development houses,Laois,Laois,0,1,0,3
+2013,Multi development houses,Leitrim,Leitrim,167,2,1,6
+2013,Multi development houses,Limerick,Limerick,161,12,5,31
+2013,Multi development houses,Longford,Longford,188,2,3,16
+2013,Multi development houses,Louth,Louth,0,1,0,2
+2013,Multi development houses,Meath,Meath,125,8,20,160
+2013,Multi development houses,Monaghan,Monaghan,167,1,1,6
+2013,Multi development houses,Offaly,Offaly,0,1,0,2
+2013,Multi development houses,Sligo,Sligo,0,1,0,2
+2013,Multi development houses,Waterford,Waterford,200,1,8,40
+2013,Multi development houses,Westmeath,Westmeath,176,2,3,17
+2013,Multi development houses,Wexford,Wexford,160,9,4,25
+2013,Multi development houses,Wicklow,Wicklow,118,8,4,34
+2013,One off houses,Carlow,Carlow,257,35,9,35
+2013,One off houses,Cavan,Cavan,283,46,13,46
+2013,One off houses,Clare,Clare,240,100,24,100
+2013,One off houses,Cork,Cork,245,384,94,384
+2013,One off houses,Donegal,Donegal,248,262,65,262
+2013,One off houses,Dublin,Dublin,219,219,48,219
+2013,One off houses,Galway,Galway,250,196,49,196
+2013,One off houses,Kerry,Kerry,217,143,31,143
+2013,One off houses,Kildare,Kildare,231,78,18,78
+2013,One off houses,Kilkenny,Kilkenny,264,91,24,91
+2013,One off houses,Laois,Laois,245,53,13,53
+2013,One off houses,Leitrim,Leitrim,250,16,4,16
+2013,One off houses,Limerick,Limerick,228,123,28,123
+2013,One off houses,Longford,Longford,292,24,7,24
+2013,One off houses,Louth,Louth,235,85,20,85
+2013,One off houses,Mayo,Mayo,252,155,39,155
+2013,One off houses,Meath,Meath,287,129,37,129
+2013,One off houses,Monaghan,Monaghan,276,87,24,87
+2013,One off houses,Offaly,Offaly,279,43,12,43
+2013,One off houses,Roscommon,Roscommon,267,45,12,45
+2013,One off houses,Sligo,Sligo,242,62,15,62
+2013,One off houses,Waterford,Waterford,302,63,19,63
+2013,One off houses,Westmeath,Westmeath,250,56,14,56
+2013,One off houses,Wexford,Wexford,259,174,45,174
+2013,One off houses,Wicklow,Wicklow,234,64,15,64
+2013,Private flats/apartments,Clare,Clare,0,4,0,4
+2013,Private flats/apartments,Cork,Cork,95,18,2,21
+2013,Private flats/apartments,Donegal,Donegal,111,7,1,9
+2013,Private flats/apartments,Dublin,Dublin,107,60,98,914
+2013,Private flats/apartments,Galway,Galway,0,1,0,1
+2013,Private flats/apartments,Kerry,Kerry,83,7,1,12
+2013,Private flats/apartments,Kildare,Kildare,0,5,0,5
+2013,Private flats/apartments,Kilkenny,Kilkenny,116,7,10,86
+2013,Private flats/apartments,Laois,Laois,0,2,0,3
+2013,Private flats/apartments,Leitrim,Leitrim,0,1,0,1
+2013,Private flats/apartments,Limerick,Limerick,0,4,0,4
+2013,Private flats/apartments,Longford,Longford,0,1,0,1
+2013,Private flats/apartments,Louth,Louth,0,5,0,6
+2013,Private flats/apartments,Mayo,Mayo,0,3,0,3
+2013,Private flats/apartments,Meath,Meath,77,9,1,13
+2013,Private flats/apartments,Offaly,Offaly,0,4,0,5
+2013,Private flats/apartments,Sligo,Sligo,0,2,0,3
+2013,Private flats/apartments,Waterford,Waterford,91,6,1,11
+2013,Private flats/apartments,Westmeath,Westmeath,143,6,1,7
+2013,Private flats/apartments,Wexford,Wexford,83,12,1,12
+2013,Private flats/apartments,Wicklow,Wicklow,111,10,2,18
+2014,Houses,Carlow,Carlow,216,38,11,51
+2014,Houses,Cavan,Cavan,250,52,13,52
+2014,Houses,Clare,Clare,216,111,29,134
+2014,Houses,Cork,Cork,198,478,138,697
+2014,Houses,Donegal,Donegal,206,169,46,223
+2014,Houses,Dublin,Dublin,154,376,345,2238
+2014,Houses,Galway,Galway,248,253,65,262
+2014,Houses,Kerry,Kerry,211,171,52,247
+2014,Houses,Kildare,Kildare,178,103,54,303
+2014,Houses,Kilkenny,Kilkenny,235,91,28,119
+2014,Houses,Laois,Laois,245,49,12,49
+2014,Houses,Leitrim,Leitrim,250,8,2,8
+2014,Houses,Limerick,Limerick,235,132,42,179
+2014,Houses,Longford,Longford,263,19,5,19
+2014,Houses,Louth,Louth,184,76,27,147
+2014,Houses,Mayo,Mayo,232,138,38,164
+2014,Houses,Meath,Meath,173,172,89,515
+2014,Houses,Monaghan,Monaghan,252,112,29,115
+2014,Houses,Offaly,Offaly,280,75,23,82
+2014,Houses,Roscommon,Roscommon,176,55,23,131
+2014,Houses,Sligo,Sligo,241,55,14,58
+2014,Houses,Waterford,Waterford,232,86,23,99
+2014,Houses,Westmeath,Westmeath,262,61,16,61
+2014,Houses,Wexford,Wexford,190,172,55,289
+2014,Houses,Wicklow,Wicklow,184,98,32,174
+2014,Multi development houses,Carlow,Carlow,133,2,2,15
+2014,Multi development houses,Clare,Clare,143,5,4,28
+2014,Multi development houses,Cork,Cork,133,22,32,241
+2014,Multi development houses,Donegal,Donegal,103,4,6,58
+2014,Multi development houses,Dublin,Dublin,145,101,285,1963
+2014,Multi development houses,Galway,Galway,214,5,3,14
+2014,Multi development houses,Kerry,Kerry,155,8,13,84
+2014,Multi development houses,Kildare,Kildare,152,11,32,211
+2014,Multi development houses,Kilkenny,Kilkenny,161,3,5,31
+2014,Multi development houses,Limerick,Limerick,203,12,12,59
+2014,Multi development houses,Louth,Louth,127,8,10,79
+2014,Multi development houses,Mayo,Mayo,148,1,4,27
+2014,Multi development houses,Meath,Meath,130,12,46,355
+2014,Multi development houses,Monaghan,Monaghan,167,3,1,6
+2014,Multi development houses,Offaly,Offaly,111,2,1,9
+2014,Multi development houses,Roscommon,Roscommon,127,3,10,79
+2014,Multi development houses,Sligo,Sligo,200,2,1,5
+2014,Multi development houses,Waterford,Waterford,125,3,2,16
+2014,Multi development houses,Wexford,Wexford,135,9,17,126
+2014,Multi development houses,Wicklow,Wicklow,144,14,13,90
+2014,One off houses,Carlow,Carlow,250,36,9,36
+2014,One off houses,Cavan,Cavan,250,52,13,52
+2014,One off houses,Clare,Clare,245,106,26,106
+2014,One off houses,Cork,Cork,232,456,106,456
+2014,One off houses,Donegal,Donegal,242,165,40,165
+2014,One off houses,Dublin,Dublin,218,275,60,275
+2014,One off houses,Galway,Galway,254,248,63,248
+2014,One off houses,Kerry,Kerry,239,163,39,163
+2014,One off houses,Kildare,Kildare,250,92,23,92
+2014,One off houses,Kilkenny,Kilkenny,273,88,24,88
+2014,One off houses,Laois,Laois,245,49,12,49
+2014,One off houses,Leitrim,Leitrim,250,8,2,8
+2014,One off houses,Limerick,Limerick,250,120,30,120
+2014,One off houses,Longford,Longford,263,19,5,19
+2014,One off houses,Louth,Louth,250,68,17,68
+2014,One off houses,Mayo,Mayo,248,137,34,137
+2014,One off houses,Meath,Meath,269,160,43,160
+2014,One off houses,Monaghan,Monaghan,257,109,28,109
+2014,One off houses,Offaly,Offaly,288,73,21,73
+2014,One off houses,Roscommon,Roscommon,250,52,13,52
+2014,One off houses,Sligo,Sligo,264,53,14,53
+2014,One off houses,Waterford,Waterford,241,83,20,83
+2014,One off houses,Westmeath,Westmeath,262,61,16,61
+2014,One off houses,Wexford,Wexford,233,163,38,163
+2014,One off houses,Wicklow,Wicklow,226,84,19,84
+2014,Private flats/apartments,Carlow,Carlow,0,1,0,1
+2014,Private flats/apartments,Clare,Clare,167,5,1,6
+2014,Private flats/apartments,Cork,Cork,91,28,5,55
+2014,Private flats/apartments,Donegal,Donegal,63,5,1,16
+2014,Private flats/apartments,Dublin,Dublin,89,85,46,514
+2014,Private flats/apartments,Galway,Galway,0,5,0,5
+2014,Private flats/apartments,Kerry,Kerry,143,4,1,7
+2014,Private flats/apartments,Kildare,Kildare,71,12,1,14
+2014,Private flats/apartments,Kilkenny,Kilkenny,0,4,0,4
+2014,Private flats/apartments,Laois,Laois,0,1,0,1
+2014,Private flats/apartments,Limerick,Limerick,125,10,2,16
+2014,Private flats/apartments,Longford,Longford,0,2,0,2
+2014,Private flats/apartments,Louth,Louth,91,10,1,11
+2014,Private flats/apartments,Mayo,Mayo,0,4,0,4
+2014,Private flats/apartments,Meath,Meath,77,9,1,13
+2014,Private flats/apartments,Monaghan,Monaghan,0,2,0,3
+2014,Private flats/apartments,Offaly,Offaly,0,2,0,2
+2014,Private flats/apartments,Roscommon,Roscommon,0,1,0,1
+2014,Private flats/apartments,Sligo,Sligo,0,2,0,2
+2014,Private flats/apartments,Waterford,Waterford,0,3,0,3
+2014,Private flats/apartments,Westmeath,Westmeath,0,4,0,4
+2014,Private flats/apartments,Wexford,Wexford,63,16,1,16
+2014,Private flats/apartments,Wicklow,Wicklow,63,11,1,16
+2015,Houses,Carlow,Carlow,152,53,25,164
+2015,Houses,Cavan,Cavan,265,110,30,113
+2015,Houses,Clare,Clare,214,140,43,201
+2015,Houses,Cork,Cork,194,550,204,1053
+2015,Houses,Donegal,Donegal,232,212,58,250
+2015,Houses,Dublin,Dublin,150,465,588,3932
+2015,Houses,Galway,Galway,250,260,70,280
+2015,Houses,Kerry,Kerry,234,172,61,261
+2015,Houses,Kildare,Kildare,164,120,73,444
+2015,Houses,Kilkenny,Kilkenny,254,114,33,130
+2015,Houses,Laois,Laois,214,93,27,126
+2015,Houses,Leitrim,Leitrim,250,26,7,28
+2015,Houses,Limerick,Limerick,191,145,53,277
+2015,Houses,Longford,Longford,268,38,11,41
+2015,Houses,Louth,Louth,177,90,43,243
+2015,Houses,Mayo,Mayo,237,142,37,156
+2015,Houses,Meath,Meath,165,214,133,806
+2015,Houses,Monaghan,Monaghan,195,116,43,221
+2015,Houses,Offaly,Offaly,253,71,19,75
+2015,Houses,Roscommon,Roscommon,260,45,13,50
+2015,Houses,Sligo,Sligo,241,54,13,54
+2015,Houses,Waterford,Waterford,210,93,25,119
+2015,Houses,Westmeath,Westmeath,163,71,33,203
+2015,Houses,Wexford,Wexford,206,217,67,325
+2015,Houses,Wicklow,Wicklow,148,143,65,438
+2015,Multi development houses,Carlow,Carlow,113,4,13,115
+2015,Multi development houses,Cavan,Cavan,200,2,1,5
+2015,Multi development houses,Clare,Clare,125,11,9,72
+2015,Multi development houses,Cork,Cork,155,32,83,535
+2015,Multi development houses,Donegal,Donegal,133,7,6,45
+2015,Multi development houses,Dublin,Dublin,145,129,523,3596
+2015,Multi development houses,Galway,Galway,125,4,3,24
+2015,Multi development houses,Kerry,Kerry,212,10,21,99
+2015,Multi development houses,Kildare,Kildare,140,12,47,336
+2015,Multi development houses,Kilkenny,Kilkenny,227,6,5,22
+2015,Multi development houses,Laois,Laois,143,2,5,35
+2015,Multi development houses,Leitrim,Leitrim,250,2,1,4
+2015,Multi development houses,Limerick,Limerick,137,7,19,139
+2015,Multi development houses,Longford,Longford,167,3,1,6
+2015,Multi development houses,Louth,Louth,144,7,23,160
+2015,Multi development houses,Mayo,Mayo,105,5,2,19
+2015,Multi development houses,Meath,Meath,131,12,79,604
+2015,Multi development houses,Monaghan,Monaghan,131,2,14,107
+2015,Multi development houses,Offaly,Offaly,167,2,1,6
+2015,Multi development houses,Roscommon,Roscommon,167,1,1,6
+2015,Multi development houses,Waterford,Waterford,156,6,5,32
+2015,Multi development houses,Westmeath,Westmeath,124,5,17,137
+2015,Multi development houses,Wexford,Wexford,146,15,18,123
+2015,Multi development houses,Wicklow,Wicklow,123,22,39,317
+2015,One off houses,Carlow,Carlow,245,49,12,49
+2015,One off houses,Cavan,Cavan,269,108,29,108
+2015,One off houses,Clare,Clare,256,129,33,129
+2015,One off houses,Cork,Cork,234,518,121,518
+2015,One off houses,Donegal,Donegal,254,205,52,205
+2015,One off houses,Dublin,Dublin,193,336,65,336
+2015,One off houses,Galway,Galway,262,256,67,256
+2015,One off houses,Kerry,Kerry,247,162,40,162
+2015,One off houses,Kildare,Kildare,241,108,26,108
+2015,One off houses,Kilkenny,Kilkenny,259,108,28,108
+2015,One off houses,Laois,Laois,242,91,22,91
+2015,One off houses,Leitrim,Leitrim,250,24,6,24
+2015,One off houses,Limerick,Limerick,246,138,34,138
+2015,One off houses,Longford,Longford,286,35,10,35
+2015,One off houses,Louth,Louth,241,83,20,83
+2015,One off houses,Mayo,Mayo,255,137,35,137
+2015,One off houses,Meath,Meath,272,202,55,202
+2015,One off houses,Monaghan,Monaghan,254,114,29,114
+2015,One off houses,Offaly,Offaly,261,69,18,69
+2015,One off houses,Roscommon,Roscommon,273,44,12,44
+2015,One off houses,Sligo,Sligo,241,54,13,54
+2015,One off houses,Waterford,Waterford,230,87,20,87
+2015,One off houses,Westmeath,Westmeath,242,66,16,66
+2015,One off houses,Wexford,Wexford,243,202,49,202
+2015,One off houses,Wicklow,Wicklow,215,121,26,121
+2015,Private flats/apartments,Carlow,Carlow,125,4,1,8
+2015,Private flats/apartments,Cavan,Cavan,0,2,0,2
+2015,Private flats/apartments,Clare,Clare,167,6,1,6
+2015,Private flats/apartments,Cork,Cork,96,39,11,115
+2015,Private flats/apartments,Donegal,Donegal,111,2,1,9
+2015,Private flats/apartments,Dublin,Dublin,97,124,230,2378
+2015,Private flats/apartments,Galway,Galway,91,8,1,11
+2015,Private flats/apartments,Kerry,Kerry,0,3,0,3
+2015,Private flats/apartments,Kildare,Kildare,67,12,1,15
+2015,Private flats/apartments,Kilkenny,Kilkenny,91,9,1,11
+2015,Private flats/apartments,Laois,Laois,125,4,1,8
+2015,Private flats/apartments,Leitrim,Leitrim,0,1,0,1
+2015,Private flats/apartments,Limerick,Limerick,59,13,1,17
+2015,Private flats/apartments,Louth,Louth,77,11,2,26
+2015,Private flats/apartments,Mayo,Mayo,125,7,1,8
+2015,Private flats/apartments,Meath,Meath,85,17,4,47
+2015,Private flats/apartments,Monaghan,Monaghan,0,2,0,2
+2015,Private flats/apartments,Offaly,Offaly,0,5,0,6
+2015,Private flats/apartments,Sligo,Sligo,0,1,0,1
+2015,Private flats/apartments,Waterford,Waterford,0,5,0,5
+2015,Private flats/apartments,Westmeath,Westmeath,71,7,1,14
+2015,Private flats/apartments,Wexford,Wexford,80,16,2,25
+2015,Private flats/apartments,Wicklow,Wicklow,118,11,2,17
+2016,Houses,Carlow,Carlow,234,56,15,64
+2016,Houses,Cavan,Cavan,239,80,22,92
+2016,Houses,Clare,Clare,188,170,59,314
+2016,Houses,Cork,Cork,178,653,274,1538
+2016,Houses,Donegal,Donegal,240,238,65,271
+2016,Houses,Dublin,Dublin,138,483,489,3531
+2016,Houses,Galway,Galway,224,272,79,352
+2016,Houses,Kerry,Kerry,194,187,54,278
+2016,Houses,Kildare,Kildare,160,200,111,693
+2016,Houses,Kilkenny,Kilkenny,214,147,43,201
+2016,Houses,Laois,Laois,180,116,45,250
+2016,Houses,Leitrim,Leitrim,273,22,6,22
+2016,Houses,Limerick,Limerick,192,162,55,286
+2016,Houses,Longford,Longford,226,56,14,62
+2016,Houses,Louth,Louth,153,120,59,385
+2016,Houses,Mayo,Mayo,201,214,70,348
+2016,Houses,Meath,Meath,161,298,185,1151
+2016,Houses,Monaghan,Monaghan,270,115,31,115
+2016,Houses,Offaly,Offaly,259,80,22,85
+2016,Houses,Roscommon,Roscommon,181,66,25,138
+2016,Houses,Sligo,Sligo,207,78,24,116
+2016,Houses,Waterford,Waterford,181,123,39,215
+2016,Houses,Westmeath,Westmeath,199,114,39,196
+2016,Houses,Wexford,Wexford,177,234,89,503
+2016,Houses,Wicklow,Wicklow,160,150,103,642
+2016,Multi development houses,Carlow,Carlow,200,2,2,10
+2016,Multi development houses,Cavan,Cavan,143,2,2,14
+2016,Multi development houses,Clare,Clare,123,11,19,155
+2016,Multi development houses,Cork,Cork,141,60,133,945
+2016,Multi development houses,Donegal,Donegal,132,5,5,38
+2016,Multi development houses,Dublin,Dublin,133,146,426,3194
+2016,Multi development houses,Galway,Galway,126,7,11,87
+2016,Multi development houses,Kerry,Kerry,120,9,12,100
+2016,Multi development houses,Kildare,Kildare,131,25,68,518
+2016,Multi development houses,Kilkenny,Kilkenny,105,3,6,57
+2016,Multi development houses,Laois,Laois,134,8,19,142
+2016,Multi development houses,Limerick,Limerick,148,11,20,135
+2016,Multi development houses,Longford,Longford,125,2,1,8
+2016,Multi development houses,Louth,Louth,121,17,34,282
+2016,Multi development houses,Mayo,Mayo,145,11,21,145
+2016,Multi development houses,Meath,Meath,131,23,115,876
+2016,Multi development houses,Offaly,Offaly,143,2,1,7
+2016,Multi development houses,Roscommon,Roscommon,120,3,9,75
+2016,Multi development houses,Sligo,Sligo,119,4,5,42
+2016,Multi development houses,Waterford,Waterford,135,12,14,104
+2016,Multi development houses,Westmeath,Westmeath,136,6,12,88
+2016,Multi development houses,Wexford,Wexford,130,15,37,284
+2016,Multi development houses,Wicklow,Wicklow,146,20,75,512
+2016,One off houses,Carlow,Carlow,241,54,13,54
+2016,One off houses,Cavan,Cavan,244,78,19,78
+2016,One off houses,Clare,Clare,252,159,40,159
+2016,One off houses,Cork,Cork,238,593,141,593
+2016,One off houses,Donegal,Donegal,258,233,60,233
+2016,One off houses,Dublin,Dublin,187,337,63,337
+2016,One off houses,Galway,Galway,257,265,68,265
+2016,One off houses,Kerry,Kerry,242,178,43,178
+2016,One off houses,Kildare,Kildare,240,175,42,175
+2016,One off houses,Kilkenny,Kilkenny,257,144,37,144
+2016,One off houses,Laois,Laois,241,108,26,108
+2016,One off houses,Leitrim,Leitrim,273,22,6,22
+2016,One off houses,Limerick,Limerick,232,151,35,151
+2016,One off houses,Longford,Longford,241,54,13,54
+2016,One off houses,Louth,Louth,243,103,25,103
+2016,One off houses,Mayo,Mayo,241,203,49,203
+2016,One off houses,Meath,Meath,258,275,71,275
+2016,One off houses,Monaghan,Monaghan,270,115,31,115
+2016,One off houses,Offaly,Offaly,282,78,22,78
+2016,One off houses,Roscommon,Roscommon,254,63,16,63
+2016,One off houses,Sligo,Sligo,257,74,19,74
+2016,One off houses,Waterford,Waterford,225,111,25,111
+2016,One off houses,Westmeath,Westmeath,250,108,27,108
+2016,One off houses,Wexford,Wexford,237,219,52,219
+2016,One off houses,Wicklow,Wicklow,223,130,29,130
+2016,Private flats/apartments,Carlow,Carlow,0,4,0,5
+2016,Private flats/apartments,Cavan,Cavan,0,5,0,6
+2016,Private flats/apartments,Clare,Clare,125,7,1,8
+2016,Private flats/apartments,Cork,Cork,86,37,8,93
+2016,Private flats/apartments,Donegal,Donegal,0,8,0,12
+2016,Private flats/apartments,Dublin,Dublin,93,163,269,2879
+2016,Private flats/apartments,Galway,Galway,111,5,1,9
+2016,Private flats/apartments,Kerry,Kerry,0,7,0,9
+2016,Private flats/apartments,Kildare,Kildare,93,13,4,43
+2016,Private flats/apartments,Kilkenny,Kilkenny,65,11,2,31
+2016,Private flats/apartments,Laois,Laois,71,9,1,14
+2016,Private flats/apartments,Leitrim,Leitrim,0,2,0,2
+2016,Private flats/apartments,Limerick,Limerick,108,10,10,93
+2016,Private flats/apartments,Longford,Longford,0,2,0,5
+2016,Private flats/apartments,Louth,Louth,78,14,5,64
+2016,Private flats/apartments,Mayo,Mayo,111,10,2,18
+2016,Private flats/apartments,Meath,Meath,83,26,7,84
+2016,Private flats/apartments,Monaghan,Monaghan,0,4,0,5
+2016,Private flats/apartments,Offaly,Offaly,0,1,0,1
+2016,Private flats/apartments,Roscommon,Roscommon,0,2,0,2
+2016,Private flats/apartments,Sligo,Sligo,0,1,0,1
+2016,Private flats/apartments,Waterford,Waterford,56,13,1,18
+2016,Private flats/apartments,Westmeath,Westmeath,111,8,1,9
+2016,Private flats/apartments,Wexford,Wexford,88,16,6,68
+2016,Private flats/apartments,Wicklow,Wicklow,56,11,1,18
+2017,Houses,Carlow,Carlow,136,66,45,332
+2017,Houses,Cavan,Cavan,258,114,33,128
+2017,Houses,Clare,Clare,180,202,75,417
+2017,Houses,Cork,Cork,168,716,288,1714
+2017,Houses,Donegal,Donegal,241,364,97,402
+2017,Houses,Dublin,Dublin,147,480,402,2727
+2017,Houses,Galway,Galway,212,462,135,636
+2017,Houses,Kerry,Kerry,176,244,105,597
+2017,Houses,Kildare,Kildare,143,207,301,2106
+2017,Houses,Kilkenny,Kilkenny,208,194,64,307
+2017,Houses,Laois,Laois,187,158,51,273
+2017,Houses,Leitrim,Leitrim,238,21,5,21
+2017,Houses,Limerick,Limerick,170,200,88,518
+2017,Houses,Longford,Longford,231,79,21,91
+2017,Houses,Louth,Louth,159,164,69,434
+2017,Houses,Mayo,Mayo,211,242,75,356
+2017,Houses,Meath,Meath,171,340,201,1173
+2017,Houses,Monaghan,Monaghan,263,150,42,160
+2017,Houses,Offaly,Offaly,175,113,43,246
+2017,Houses,Roscommon,Roscommon,204,94,28,137
+2017,Houses,Sligo,Sligo,211,86,24,114
+2017,Houses,Waterford,Waterford,160,120,34,213
+2017,Houses,Westmeath,Westmeath,207,143,46,222
+2017,Houses,Wexford,Wexford,167,279,104,624
+2017,Houses,Wicklow,Wicklow,140,194,122,872
+2017,Multi development houses,Carlow,Carlow,112,11,31,277
+2017,Multi development houses,Cavan,Cavan,167,4,3,18
+2017,Multi development houses,Clare,Clare,120,10,27,225
+2017,Multi development houses,Cork,Cork,130,63,138,1061
+2017,Multi development houses,Donegal,Donegal,114,6,5,44
+2017,Multi development houses,Dublin,Dublin,140,118,332,2365
+2017,Multi development houses,Galway,Galway,138,15,26,189
+2017,Multi development houses,Kerry,Kerry,139,28,53,381
+2017,Multi development houses,Kildare,Kildare,133,37,258,1936
+2017,Multi development houses,Kilkenny,Kilkenny,151,13,19,126
+2017,Multi development houses,Laois,Laois,131,7,16,122
+2017,Multi development houses,Limerick,Limerick,131,18,44,336
+2017,Multi development houses,Longford,Longford,67,3,1,15
+2017,Multi development houses,Louth,Louth,119,15,34,285
+2017,Multi development houses,Mayo,Mayo,137,10,17,124
+2017,Multi development houses,Meath,Meath,138,28,119,861
+2017,Multi development houses,Monaghan,Monaghan,167,2,2,12
+2017,Multi development houses,Offaly,Offaly,106,8,15,141
+2017,Multi development houses,Roscommon,Roscommon,135,9,7,52
+2017,Multi development houses,Sligo,Sligo,133,2,4,30
+2017,Multi development houses,Waterford,Waterford,100,7,10,100
+2017,Multi development houses,Westmeath,Westmeath,159,9,14,88
+2017,Multi development houses,Wexford,Wexford,119,16,43,361
+2017,Multi development houses,Wicklow,Wicklow,126,35,90,713
+2017,One off houses,Carlow,Carlow,255,55,14,55
+2017,One off houses,Cavan,Cavan,273,110,30,110
+2017,One off houses,Clare,Clare,250,192,48,192
+2017,One off houses,Cork,Cork,230,653,150,653
+2017,One off houses,Donegal,Donegal,257,358,92,358
+2017,One off houses,Dublin,Dublin,193,362,70,362
+2017,One off houses,Galway,Galway,244,447,109,447
+2017,One off houses,Kerry,Kerry,241,216,52,216
+2017,One off houses,Kildare,Kildare,253,170,43,170
+2017,One off houses,Kilkenny,Kilkenny,254,181,46,181
+2017,One off houses,Laois,Laois,232,151,35,151
+2017,One off houses,Leitrim,Leitrim,238,21,5,21
+2017,One off houses,Limerick,Limerick,242,182,44,182
+2017,One off houses,Longford,Longford,263,76,20,76
+2017,One off houses,Louth,Louth,235,149,35,149
+2017,One off houses,Mayo,Mayo,246,232,57,232
+2017,One off houses,Meath,Meath,263,312,82,312
+2017,One off houses,Monaghan,Monaghan,277,148,41,148
+2017,One off houses,Offaly,Offaly,267,105,28,105
+2017,One off houses,Roscommon,Roscommon,247,85,21,85
+2017,One off houses,Sligo,Sligo,250,84,21,84
+2017,One off houses,Waterford,Waterford,212,113,24,113
+2017,One off houses,Westmeath,Westmeath,239,134,32,134
+2017,One off houses,Wexford,Wexford,232,263,61,263
+2017,One off houses,Wicklow,Wicklow,208,159,33,159
+2017,Private flats/apartments,Carlow,Carlow,0,3,0,3
+2017,Private flats/apartments,Cavan,Cavan,0,4,0,4
+2017,Private flats/apartments,Clare,Clare,61,14,2,33
+2017,Private flats/apartments,Cork,Cork,94,49,11,117
+2017,Private flats/apartments,Donegal,Donegal,85,18,4,47
+2017,Private flats/apartments,Dublin,Dublin,87,153,353,4062
+2017,Private flats/apartments,Galway,Galway,65,15,2,31
+2017,Private flats/apartments,Kerry,Kerry,102,15,5,49
+2017,Private flats/apartments,Kildare,Kildare,91,25,6,66
+2017,Private flats/apartments,Kilkenny,Kilkenny,76,13,5,66
+2017,Private flats/apartments,Laois,Laois,111,6,1,9
+2017,Private flats/apartments,Leitrim,Leitrim,0,1,0,3
+2017,Private flats/apartments,Limerick,Limerick,74,21,6,81
+2017,Private flats/apartments,Longford,Longford,0,2,0,5
+2017,Private flats/apartments,Louth,Louth,75,22,3,40
+2017,Private flats/apartments,Mayo,Mayo,91,3,2,22
+2017,Private flats/apartments,Meath,Meath,82,26,11,134
+2017,Private flats/apartments,Monaghan,Monaghan,125,3,1,8
+2017,Private flats/apartments,Offaly,Offaly,89,3,4,45
+2017,Private flats/apartments,Sligo,Sligo,125,8,1,8
+2017,Private flats/apartments,Waterford,Waterford,73,18,4,55
+2017,Private flats/apartments,Westmeath,Westmeath,83,7,1,12
+2017,Private flats/apartments,Wexford,Wexford,95,15,6,63
+2017,Private flats/apartments,Wicklow,Wicklow,61,25,11,179
+2018,Houses,Carlow,Carlow,212,64,21,99
+2018,Houses,Cavan,Cavan,171,107,44,257
+2018,Houses,Clare,Clare,192,254,82,428
+2018,Houses,Cork,Cork,146,743,457,3133
+2018,Houses,Donegal,Donegal,228,322,82,359
+2018,Houses,Dublin,Dublin,141,559,528,3748
+2018,Houses,Galway,Galway,183,482,197,1077
+2018,Houses,Kerry,Kerry,198,218,69,348
+2018,Houses,Kildare,Kildare,140,220,328,2340
+2018,Houses,Kilkenny,Kilkenny,178,173,67,377
+2018,Houses,Laois,Laois,146,154,93,637
+2018,Houses,Leitrim,Leitrim,250,16,4,16
+2018,Houses,Limerick,Limerick,160,252,128,799
+2018,Houses,Longford,Longford,200,58,16,80
+2018,Houses,Louth,Louth,148,158,61,412
+2018,Houses,Mayo,Mayo,228,268,66,289
+2018,Houses,Meath,Meath,155,353,214,1382
+2018,Houses,Monaghan,Monaghan,204,213,65,318
+2018,Houses,Offaly,Offaly,174,143,70,402
+2018,Houses,Roscommon,Roscommon,218,131,39,179
+2018,Houses,Sligo,Sligo,217,101,28,129
+2018,Houses,Tipperary,Tipperary,196,215,57,291
+2018,Houses,Waterford,Waterford,151,166,105,697
+2018,Houses,Westmeath,Westmeath,191,130,41,215
+2018,Houses,Wexford,Wexford,156,314,135,868
+2018,Houses,Wicklow,Wicklow,147,199,101,686
+2018,Multi development houses,Carlow,Carlow,128,4,5,39
+2018,Multi development houses,Cavan,Cavan,115,7,18,157
+2018,Multi development houses,Clare,Clare,130,11,24,185
+2018,Multi development houses,Cork,Cork,124,82,307,2472
+2018,Multi development houses,Donegal,Donegal,120,13,6,50
+2018,Multi development houses,Dublin,Dublin,134,152,448,3341
+2018,Multi development houses,Galway,Galway,130,35,82,630
+2018,Multi development houses,Kerry,Kerry,137,9,19,139
+2018,Multi development houses,Kildare,Kildare,132,31,285,2151
+2018,Multi development houses,Kilkenny,Kilkenny,123,15,27,219
+2018,Multi development houses,Laois,Laois,120,16,60,499
+2018,Multi development houses,Limerick,Limerick,132,28,76,575
+2018,Multi development houses,Longford,Longford,111,5,3,27
+2018,Multi development houses,Louth,Louth,100,15,27,269
+2018,Multi development houses,Mayo,Mayo,133,9,4,30
+2018,Multi development houses,Meath,Meath,123,32,131,1061
+2018,Multi development houses,Monaghan,Monaghan,108,6,12,111
+2018,Multi development houses,Offaly,Offaly,130,10,35,269
+2018,Multi development houses,Roscommon,Roscommon,127,7,7,55
+2018,Multi development houses,Sligo,Sligo,121,5,4,33
+2018,Multi development houses,Tipperary,Tipperary,124,13,11,89
+2018,Multi development houses,Waterford,Waterford,131,18,72,549
+2018,Multi development houses,Westmeath,Westmeath,120,15,12,100
+2018,Multi development houses,Wexford,Wexford,113,29,66,583
+2018,Multi development houses,Wicklow,Wicklow,129,24,66,511
+2018,One off houses,Carlow,Carlow,267,60,16,60
+2018,One off houses,Cavan,Cavan,260,100,26,100
+2018,One off houses,Clare,Clare,239,243,58,243
+2018,One off houses,Cork,Cork,227,661,150,661
+2018,One off houses,Donegal,Donegal,246,309,76,309
+2018,One off houses,Dublin,Dublin,194,407,79,407
+2018,One off houses,Galway,Galway,253,447,113,447
+2018,One off houses,Kerry,Kerry,234,209,49,209
+2018,One off houses,Kildare,Kildare,238,189,45,189
+2018,One off houses,Kilkenny,Kilkenny,247,158,39,158
+2018,One off houses,Laois,Laois,246,138,34,138
+2018,One off houses,Leitrim,Leitrim,250,16,4,16
+2018,One off houses,Limerick,Limerick,228,224,51,224
+2018,One off houses,Longford,Longford,264,53,14,53
+2018,One off houses,Louth,Louth,231,143,33,143
+2018,One off houses,Mayo,Mayo,236,259,61,259
+2018,One off houses,Meath,Meath,255,321,82,321
+2018,One off houses,Monaghan,Monaghan,251,207,52,207
+2018,One off houses,Offaly,Offaly,271,133,36,133
+2018,One off houses,Roscommon,Roscommon,258,124,32,124
+2018,One off houses,Sligo,Sligo,250,96,24,96
+2018,One off houses,Tipperary,Tipperary,233,202,47,202
+2018,One off houses,Waterford,Waterford,223,148,33,148
+2018,One off houses,Westmeath,Westmeath,252,115,29,115
+2018,One off houses,Wexford,Wexford,235,285,67,285
+2018,One off houses,Wicklow,Wicklow,206,175,36,175
+2018,Private flats/apartments,Carlow,Carlow,0,7,0,11
+2018,Private flats/apartments,Cavan,Cavan,0,6,0,7
+2018,Private flats/apartments,Clare,Clare,0,9,0,9
+2018,Private flats/apartments,Cork,Cork,80,75,57,716
+2018,Private flats/apartments,Donegal,Donegal,74,14,2,27
+2018,Private flats/apartments,Dublin,Dublin,87,204,468,5409
+2018,Private flats/apartments,Galway,Galway,87,27,15,173
+2018,Private flats/apartments,Kerry,Kerry,83,21,4,48
+2018,Private flats/apartments,Kildare,Kildare,85,38,75,885
+2018,Private flats/apartments,Kilkenny,Kilkenny,78,16,5,64
+2018,Private flats/apartments,Laois,Laois,0,9,0,14
+2018,Private flats/apartments,Leitrim,Leitrim,0,1,0,1
+2018,Private flats/apartments,Limerick,Limerick,67,24,6,89
+2018,Private flats/apartments,Longford,Longford,59,6,1,17
+2018,Private flats/apartments,Louth,Louth,77,28,21,273
+2018,Private flats/apartments,Mayo,Mayo,0,13,0,16
+2018,Private flats/apartments,Meath,Meath,93,42,18,194
+2018,Private flats/apartments,Monaghan,Monaghan,91,12,3,33
+2018,Private flats/apartments,Offaly,Offaly,36,9,1,28
+2018,Private flats/apartments,Roscommon,Roscommon,63,5,1,16
+2018,Private flats/apartments,Sligo,Sligo,77,7,1,13
+2018,Private flats/apartments,Tipperary,Tipperary,43,12,1,23
+2018,Private flats/apartments,Waterford,Waterford,77,13,4,52
+2018,Private flats/apartments,Westmeath,Westmeath,57,12,2,35
+2018,Private flats/apartments,Wexford,Wexford,70,28,4,57
+2018,Private flats/apartments,Wicklow,Wicklow,83,23,9,108
+2019,Houses,Carlow,Carlow,158,97,35,221
+2019,Houses,Cavan,Cavan,197,112,60,305
+2019,Houses,Clare,Clare,187,232,83,443
+2019,Houses,Cork,Cork,152,776,438,2884
+2019,Houses,Donegal,Donegal,192,386,117,610
+2019,Houses,Dublin,Dublin,140,500,321,2290
+2019,Houses,Galway,Galway,209,499,158,755
+2019,Houses,Kerry,Kerry,186,268,78,420
+2019,Houses,Kildare,Kildare,133,208,209,1567
+2019,Houses,Kilkenny,Kilkenny,176,210,91,518
+2019,Houses,Laois,Laois,146,162,95,652
+2019,Houses,Leitrim,Leitrim,217,38,10,46
+2019,Houses,Limerick,Limerick,151,254,103,681
+2019,Houses,Longford,Longford,165,89,31,188
+2019,Houses,Louth,Louth,144,174,111,770
+2019,Houses,Mayo,Mayo,212,271,75,353
+2019,Houses,Meath,Meath,147,352,258,1752
+2019,Houses,Monaghan,Monaghan,186,178,66,355
+2019,Houses,Offaly,Offaly,175,163,75,428
+2019,Houses,Roscommon,Roscommon,233,116,31,133
+2019,Houses,Sligo,Sligo,166,91,30,181
+2019,Houses,Tipperary,Tipperary,183,204,71,387
+2019,Houses,Waterford,Waterford,150,176,142,944
+2019,Houses,Westmeath,Westmeath,188,137,46,245
+2019,Houses,Wexford,Wexford,148,325,211,1422
+2019,Houses,Wicklow,Wicklow,154,177,100,651
+2019,Multi development houses,Carlow,Carlow,103,12,14,136
+2019,Multi development houses,Cavan,Cavan,158,9,32,202
+2019,Multi development houses,Clare,Clare,130,12,29,223
+2019,Multi development houses,Cork,Cork,129,103,285,2211
+2019,Multi development houses,Donegal,Donegal,110,12,26,236
+2019,Multi development houses,Dublin,Dublin,134,118,256,1908
+2019,Multi development houses,Galway,Galway,131,18,36,274
+2019,Multi development houses,Kerry,Kerry,123,11,20,163
+2019,Multi development houses,Kildare,Kildare,124,47,175,1406
+2019,Multi development houses,Kilkenny,Kilkenny,135,19,44,327
+2019,Multi development houses,Laois,Laois,120,19,61,509
+2019,Multi development houses,Leitrim,Leitrim,100,2,1,10
+2019,Multi development houses,Limerick,Limerick,113,25,51,452
+2019,Multi development houses,Longford,Longford,93,9,10,108
+2019,Multi development houses,Louth,Louth,122,25,76,621
+2019,Multi development houses,Mayo,Mayo,130,10,12,92
+2019,Multi development houses,Meath,Meath,125,37,180,1437
+2019,Multi development houses,Monaghan,Monaghan,126,13,24,190
+2019,Multi development houses,Offaly,Offaly,117,9,32,274
+2019,Multi development houses,Roscommon,Roscommon,136,5,3,22
+2019,Multi development houses,Sligo,Sligo,116,5,11,95
+2019,Multi development houses,Tipperary,Tipperary,126,16,25,199
+2019,Multi development houses,Waterford,Waterford,137,21,108,789
+2019,Multi development houses,Westmeath,Westmeath,133,12,16,120
+2019,Multi development houses,Wexford,Wexford,126,34,142,1131
+2019,Multi development houses,Wicklow,Wicklow,136,19,67,493
+2019,One off houses,Carlow,Carlow,247,85,21,85
+2019,One off houses,Cavan,Cavan,272,103,28,103
+2019,One off houses,Clare,Clare,241,220,53,220
+2019,One off houses,Cork,Cork,226,673,152,673
+2019,One off houses,Donegal,Donegal,241,374,90,374
+2019,One off houses,Dublin,Dublin,170,382,65,382
+2019,One off houses,Galway,Galway,249,481,120,481
+2019,One off houses,Kerry,Kerry,226,257,58,257
+2019,One off houses,Kildare,Kildare,224,161,36,161
+2019,One off houses,Kilkenny,Kilkenny,246,191,47,191
+2019,One off houses,Laois,Laois,238,143,34,143
+2019,One off houses,Leitrim,Leitrim,250,36,9,36
+2019,One off houses,Limerick,Limerick,227,229,52,229
+2019,One off houses,Longford,Longford,250,80,20,80
+2019,One off houses,Louth,Louth,235,149,35,149
+2019,One off houses,Mayo,Mayo,238,261,62,261
+2019,One off houses,Meath,Meath,248,315,78,315
+2019,One off houses,Monaghan,Monaghan,242,165,40,165
+2019,One off houses,Offaly,Offaly,266,154,41,154
+2019,One off houses,Roscommon,Roscommon,261,111,29,111
+2019,One off houses,Sligo,Sligo,221,86,19,86
+2019,One off houses,Tipperary,Tipperary,239,188,45,188
+2019,One off houses,Waterford,Waterford,213,155,33,155
+2019,One off houses,Westmeath,Westmeath,264,125,33,125
+2019,One off houses,Wexford,Wexford,237,291,69,291
+2019,One off houses,Wicklow,Wicklow,215,158,34,158
+2019,Private flats/apartments,Carlow,Carlow,115,5,3,26
+2019,Private flats/apartments,Cavan,Cavan,0,3,0,6
+2019,Private flats/apartments,Clare,Clare,30,17,1,33
+2019,Private flats/apartments,Cork,Cork,82,90,49,596
+2019,Private flats/apartments,Donegal,Donegal,65,14,2,31
+2019,Private flats/apartments,Dublin,Dublin,79,246,1032,13119
+2019,Private flats/apartments,Galway,Galway,87,20,13,150
+2019,Private flats/apartments,Kerry,Kerry,91,26,5,55
+2019,Private flats/apartments,Kildare,Kildare,80,50,46,576
+2019,Private flats/apartments,Kilkenny,Kilkenny,83,21,6,72
+2019,Private flats/apartments,Laois,Laois,101,15,7,69
+2019,Private flats/apartments,Leitrim,Leitrim,0,1,0,2
+2019,Private flats/apartments,Limerick,Limerick,84,31,13,155
+2019,Private flats/apartments,Longford,Longford,0,2,0,2
+2019,Private flats/apartments,Louth,Louth,77,14,68,878
+2019,Private flats/apartments,Mayo,Mayo,0,5,0,6
+2019,Private flats/apartments,Meath,Meath,91,50,96,1054
+2019,Private flats/apartments,Monaghan,Monaghan,63,6,1,16
+2019,Private flats/apartments,Offaly,Offaly,0,10,0,13
+2019,Private flats/apartments,Roscommon,Roscommon,0,3,0,3
+2019,Private flats/apartments,Sligo,Sligo,59,9,2,34
+2019,Private flats/apartments,Tipperary,Tipperary,53,10,1,19
+2019,Private flats/apartments,Waterford,Waterford,76,21,17,224
+2019,Private flats/apartments,Westmeath,Westmeath,117,15,7,60
+2019,Private flats/apartments,Wexford,Wexford,97,37,28,288
+2019,Private flats/apartments,Wicklow,Wicklow,86,23,30,349
+2020,Houses,Carlow,Carlow,141,78,28,198
+2020,Houses,Cavan,Cavan,228,97,29,127
+2020,Houses,Clare,Clare,165,172,65,394
+2020,Houses,Cork,Cork,158,687,280,1777
+2020,Houses,Donegal,Donegal,168,358,123,730
+2020,Houses,Dublin,Dublin,141,400,242,1717
+2020,Houses,Galway,Galway,215,478,141,656
+2020,Houses,Kerry,Kerry,176,194,59,336
+2020,Houses,Kildare,Kildare,130,234,281,2156
+2020,Houses,Kilkenny,Kilkenny,189,212,77,408
+2020,Houses,Laois,Laois,148,166,86,580
+2020,Houses,Leitrim,Leitrim,237,45,14,59
+2020,Houses,Limerick,Limerick,163,250,87,533
+2020,Houses,Longford,Longford,158,84,32,202
+2020,Houses,Louth,Louth,134,142,84,626
+2020,Houses,Mayo,Mayo,207,242,68,328
+2020,Houses,Meath,Meath,150,508,328,2186
+2020,Houses,Monaghan,Monaghan,208,154,42,202
+2020,Houses,Offaly,Offaly,172,132,51,296
+2020,Houses,Roscommon,Roscommon,203,72,28,138
+2020,Houses,Sligo,Sligo,167,73,33,198
+2020,Houses,Tipperary,Tipperary,149,166,73,491
+2020,Houses,Waterford,Waterford,174,160,52,298
+2020,Houses,Westmeath,Westmeath,149,147,86,577
+2020,Houses,Wexford,Wexford,152,307,132,870
+2020,Houses,Wicklow,Wicklow,134,195,151,1128
+2020,Multi development houses,Carlow,Carlow,94,8,12,128
+2020,Multi development houses,Cavan,Cavan,167,6,6,36
+2020,Multi development houses,Clare,Clare,119,14,28,236
+2020,Multi development houses,Cork,Cork,123,59,141,1149
+2020,Multi development houses,Donegal,Donegal,104,23,41,395
+2020,Multi development houses,Dublin,Dublin,134,91,189,1408
+2020,Multi development houses,Galway,Galway,126,13,24,191
+2020,Multi development houses,Kerry,Kerry,109,14,17,156
+2020,Multi development houses,Kildare,Kildare,120,48,237,1970
+2020,Multi development houses,Kilkenny,Kilkenny,139,12,29,208
+2020,Multi development houses,Laois,Laois,105,13,45,427
+2020,Multi development houses,Leitrim,Leitrim,118,3,2,17
+2020,Multi development houses,Limerick,Limerick,120,25,37,308
+2020,Multi development houses,Longford,Longford,94,10,12,128
+2020,Multi development houses,Louth,Louth,110,17,55,501
+2020,Multi development houses,Mayo,Mayo,122,12,12,98
+2020,Multi development houses,Meath,Meath,122,39,210,1717
+2020,Multi development houses,Monaghan,Monaghan,111,6,6,54
+2020,Multi development houses,Offaly,Offaly,109,10,19,174
+2020,Multi development houses,Roscommon,Roscommon,159,3,11,69
+2020,Multi development houses,Sligo,Sligo,129,7,17,132
+2020,Multi development houses,Tipperary,Tipperary,109,13,37,338
+2020,Multi development houses,Waterford,Waterford,119,13,18,151
+2020,Multi development houses,Westmeath,Westmeath,123,17,55,447
+2020,Multi development houses,Wexford,Wexford,110,21,64,584
+2020,Multi development houses,Wicklow,Wicklow,122,35,118,968
+2020,One off houses,Carlow,Carlow,229,70,16,70
+2020,One off houses,Cavan,Cavan,253,91,23,91
+2020,One off houses,Clare,Clare,241,158,38,158
+2020,One off houses,Cork,Cork,221,628,139,628
+2020,One off houses,Donegal,Donegal,245,335,82,335
+2020,One off houses,Dublin,Dublin,172,309,53,309
+2020,One off houses,Galway,Galway,252,465,117,465
+2020,One off houses,Kerry,Kerry,233,180,42,180
+2020,One off houses,Kildare,Kildare,231,186,43,186
+2020,One off houses,Kilkenny,Kilkenny,245,200,49,200
+2020,One off houses,Laois,Laois,275,153,42,153
+2020,One off houses,Leitrim,Leitrim,262,42,11,42
+2020,One off houses,Limerick,Limerick,222,225,50,225
+2020,One off houses,Longford,Longford,270,74,20,74
+2020,One off houses,Louth,Louth,240,125,30,125
+2020,One off houses,Mayo,Mayo,243,230,56,230
+2020,One off houses,Meath,Meath,252,469,118,469
+2020,One off houses,Monaghan,Monaghan,243,148,36,148
+2020,One off houses,Offaly,Offaly,270,122,33,122
+2020,One off houses,Roscommon,Roscommon,246,69,17,69
+2020,One off houses,Sligo,Sligo,227,66,15,66
+2020,One off houses,Tipperary,Tipperary,242,153,37,153
+2020,One off houses,Waterford,Waterford,224,147,33,147
+2020,One off houses,Westmeath,Westmeath,238,130,31,130
+2020,One off houses,Wexford,Wexford,234,286,67,286
+2020,One off houses,Wicklow,Wicklow,206,160,33,160
+2020,Private flats/apartments,Carlow,Carlow,43,9,1,23
+2020,Private flats/apartments,Cavan,Cavan,0,3,0,8
+2020,Private flats/apartments,Clare,Clare,82,14,8,98
+2020,Private flats/apartments,Cork,Cork,68,56,14,207
+2020,Private flats/apartments,Donegal,Donegal,83,19,11,132
+2020,Private flats/apartments,Dublin,Dublin,73,231,1411,19362
+2020,Private flats/apartments,Galway,Galway,83,19,7,84
+2020,Private flats/apartments,Kerry,Kerry,43,13,1,23
+2020,Private flats/apartments,Kildare,Kildare,79,48,102,1290
+2020,Private flats/apartments,Kilkenny,Kilkenny,66,19,6,91
+2020,Private flats/apartments,Laois,Laois,70,21,10,142
+2020,Private flats/apartments,Leitrim,Leitrim,0,4,0,8
+2020,Private flats/apartments,Limerick,Limerick,77,27,19,248
+2020,Private flats/apartments,Longford,Longford,63,3,1,16
+2020,Private flats/apartments,Louth,Louth,88,29,44,501
+2020,Private flats/apartments,Mayo,Mayo,59,7,1,17
+2020,Private flats/apartments,Meath,Meath,86,54,94,1088
+2020,Private flats/apartments,Monaghan,Monaghan,0,2,0,4
+2020,Private flats/apartments,Offaly,Offaly,70,8,3,43
+2020,Private flats/apartments,Roscommon,Roscommon,86,3,3,35
+2020,Private flats/apartments,Sligo,Sligo,111,6,1,9
+2020,Private flats/apartments,Tipperary,Tipperary,66,15,8,122
+2020,Private flats/apartments,Waterford,Waterford,74,19,9,122
+2020,Private flats/apartments,Westmeath,Westmeath,81,21,26,320
+2020,Private flats/apartments,Wexford,Wexford,80,27,30,373
+2020,Private flats/apartments,Wicklow,Wicklow,91,23,58,637
+2021,Houses,Carlow,Carlow,147,55,23,156
+2021,Houses,Cavan,Cavan,275,80,22,80
+2021,Houses,Clare,Clare,192,117,41,214
+2021,Houses,Cork,Cork,180,363,115,638
+2021,Houses,Donegal,Donegal,226,303,81,358
+2021,Houses,Dublin,Dublin,161,188,67,417
+2021,Houses,Galway,Galway,206,273,84,408
+2021,Houses,Kerry,Kerry,226,145,35,155
+2021,Houses,Kildare,Kildare,146,88,64,437
+2021,Houses,Kilkenny,Kilkenny,146,112,53,362
+2021,Houses,Laois,Laois,166,70,30,181
+2021,Houses,Leitrim,Leitrim,227,27,10,44
+2021,Houses,Limerick,Limerick,172,192,70,408
+2021,Houses,Longford,Longford,214,44,12,56
+2021,Houses,Louth,Louth,232,105,29,125
+2021,Houses,Mayo,Mayo,227,181,46,203
+2021,Houses,Meath,Meath,198,319,95,481
+2021,Houses,Monaghan,Monaghan,243,105,27,111
+2021,Houses,Offaly,Offaly,228,82,23,101
+2021,Houses,Roscommon,Roscommon,239,77,22,92
+2021,Houses,Sligo,Sligo,265,47,13,49
+2021,Houses,Tipperary,Tipperary,167,126,44,264
+2021,Houses,Waterford,Waterford,219,85,21,96
+2021,Houses,Westmeath,Westmeath,139,84,59,425
+2021,Houses,Wexford,Wexford,163,228,85,520
+2021,Houses,Wicklow,Wicklow,139,121,56,402
+2021,Multi development houses,Carlow,Carlow,103,6,11,107
+2021,Multi development houses,Clare,Clare,133,8,14,105
+2021,Multi development houses,Cork,Cork,127,25,38,300
+2021,Multi development houses,Donegal,Donegal,136,11,9,66
+2021,Multi development houses,Dublin,Dublin,157,38,42,267
+2021,Multi development houses,Galway,Galway,116,12,17,147
+2021,Multi development houses,Kerry,Kerry,176,7,3,17
+2021,Multi development houses,Kildare,Kildare,125,10,45,359
+2021,Multi development houses,Kilkenny,Kilkenny,105,8,27,258
+2021,Multi development houses,Laois,Laois,104,4,12,115
+2021,Multi development houses,Leitrim,Leitrim,105,2,2,19
+2021,Multi development houses,Limerick,Limerick,123,11,28,227
+2021,Multi development houses,Longford,Longford,67,3,1,15
+2021,Multi development houses,Louth,Louth,130,3,3,23
+2021,Multi development houses,Mayo,Mayo,111,5,3,27
+2021,Multi development houses,Meath,Meath,116,11,20,173
+2021,Multi development houses,Monaghan,Monaghan,143,1,1,7
+2021,Multi development houses,Offaly,Offaly,100,1,2,20
+2021,Multi development houses,Roscommon,Roscommon,111,3,2,18
+2021,Multi development houses,Sligo,Sligo,250,2,1,4
+2021,Multi development houses,Tipperary,Tipperary,114,11,17,149
+2021,Multi development houses,Waterford,Waterford,143,3,2,14
+2021,Multi development houses,Westmeath,Westmeath,110,3,38,344
+2021,Multi development houses,Wexford,Wexford,106,10,32,302
+2021,Multi development houses,Wicklow,Wicklow,116,11,34,292
+2021,One off houses,Carlow,Carlow,245,49,12,49
+2021,One off houses,Cavan,Cavan,275,80,22,80
+2021,One off houses,Clare,Clare,248,109,27,109
+2021,One off houses,Cork,Cork,231,338,78,338
+2021,One off houses,Donegal,Donegal,247,292,72,292
+2021,One off houses,Dublin,Dublin,160,150,24,150
+2021,One off houses,Galway,Galway,257,261,67,261
+2021,One off houses,Kerry,Kerry,232,138,32,138
+2021,One off houses,Kildare,Kildare,256,78,20,78
+2021,One off houses,Kilkenny,Kilkenny,250,104,26,104
+2021,One off houses,Laois,Laois,273,66,18,66
+2021,One off houses,Leitrim,Leitrim,280,25,7,25
+2021,One off houses,Limerick,Limerick,232,181,42,181
+2021,One off houses,Longford,Longford,268,41,11,41
+2021,One off houses,Louth,Louth,245,102,25,102
+2021,One off houses,Mayo,Mayo,244,176,43,176
+2021,One off houses,Meath,Meath,244,308,75,308
+2021,One off houses,Monaghan,Monaghan,250,104,26,104
+2021,One off houses,Offaly,Offaly,272,81,22,81
+2021,One off houses,Roscommon,Roscommon,243,74,18,74
+2021,One off houses,Sligo,Sligo,267,45,12,45
+2021,One off houses,Tipperary,Tipperary,235,115,27,115
+2021,One off houses,Waterford,Waterford,232,82,19,82
+2021,One off houses,Westmeath,Westmeath,247,81,20,81
+2021,One off houses,Wexford,Wexford,243,218,53,218
+2021,One off houses,Wicklow,Wicklow,200,110,22,110
+2021,Private flats/apartments,Carlow,Carlow,42,6,1,24
+2021,Private flats/apartments,Cavan,Cavan,125,5,1,8
+2021,Private flats/apartments,Clare,Clare,83,9,1,12
+2021,Private flats/apartments,Cork,Cork,87,48,23,265
+2021,Private flats/apartments,Donegal,Donegal,103,9,3,29
+2021,Private flats/apartments,Dublin,Dublin,64,115,464,7199
+2021,Private flats/apartments,Galway,Galway,90,13,10,111
+2021,Private flats/apartments,Kerry,Kerry,83,14,3,36
+2021,Private flats/apartments,Kildare,Kildare,85,22,29,340
+2021,Private flats/apartments,Kilkenny,Kilkenny,62,10,9,145
+2021,Private flats/apartments,Laois,Laois,94,10,6,64
+2021,Private flats/apartments,Leitrim,Leitrim,111,1,2,18
+2021,Private flats/apartments,Limerick,Limerick,78,19,16,205
+2021,Private flats/apartments,Louth,Louth,74,20,26,353
+2021,Private flats/apartments,Mayo,Mayo,78,8,4,51
+2021,Private flats/apartments,Meath,Meath,72,18,8,111
+2021,Private flats/apartments,Monaghan,Monaghan,0,4,0,6
+2021,Private flats/apartments,Offaly,Offaly,80,5,2,25
+2021,Private flats/apartments,Roscommon,Roscommon,71,5,1,14
+2021,Private flats/apartments,Tipperary,Tipperary,87,5,4,46
+2021,Private flats/apartments,Waterford,Waterford,56,8,2,36
+2021,Private flats/apartments,Westmeath,Westmeath,81,8,25,308
+2021,Private flats/apartments,Wexford,Wexford,79,14,10,127
+2021,Private flats/apartments,Wicklow,Wicklow,82,17,21,256
+2001,Houses,Tipperary,Tipperary,155,936,341,2201
+2002,Houses,Tipperary,Tipperary,161,772,264,1639
+2003,Houses,Tipperary,Tipperary,157,894,290,1850
+2004,Houses,Tipperary,Tipperary,147,1148,468,3178
+2005,Houses,Tipperary,Tipperary,138,873,499,3606
+2006,Houses,Tipperary,Tipperary,154,755,341,2215
+2007,Houses,Tipperary,Tipperary,164,907,534,3249
+2008,Houses,Tipperary,Tipperary,154,670,401,2600
+2009,Houses,Tipperary,Tipperary,177,416,192,1087
+2010,Houses,Tipperary,Tipperary,179,276,118,660
+2011,Houses,Tipperary,Tipperary,228,215,66,289
+2012,Houses,Tipperary,Tipperary,232,132,33,142
+2013,Houses,Tipperary,Tipperary,265,134,36,136
+2014,Houses,Tipperary,Tipperary,264,138,37,140
+2015,Houses,Tipperary,Tipperary,242,113,32,132
+2016,Houses,Tipperary,Tipperary,242,142,36,149
+2017,Houses,Tipperary,Tipperary,216,206,52,241
+2001,Multi development houses,Tipperary,Tipperary,127,58,168,1323
+2002,Multi development houses,Tipperary,Tipperary,135,46,123,913
+2003,Multi development houses,Tipperary,Tipperary,111,58,113,1014
+2004,Multi development houses,Tipperary,Tipperary,113,85,240,2115
+2005,Multi development houses,Tipperary,Tipperary,117,99,330,2832
+2006,Multi development houses,Tipperary,Tipperary,119,72,182,1532
+2007,Multi development houses,Tipperary,Tipperary,138,93,335,2435
+2008,Multi development houses,Tipperary,Tipperary,125,75,251,2005
+2009,Multi development houses,Tipperary,Tipperary,132,36,93,707
+2010,Multi development houses,Tipperary,Tipperary,132,17,53,401
+2011,Multi development houses,Tipperary,Tipperary,135,15,12,89
+2012,Multi development houses,Tipperary,Tipperary,133,5,2,15
+2013,Multi development houses,Tipperary,Tipperary,0,2,0,4
+2014,Multi development houses,Tipperary,Tipperary,0,2,0,4
+2015,Multi development houses,Tipperary,Tipperary,174,4,4,23
+2016,Multi development houses,Tipperary,Tipperary,200,3,2,10
+2017,Multi development houses,Tipperary,Tipperary,100,5,4,40
+2001,One off houses,Tipperary,Tipperary,196,878,172,878
+2002,One off houses,Tipperary,Tipperary,194,726,141,726
+2003,One off houses,Tipperary,Tipperary,212,836,177,836
+2004,One off houses,Tipperary,Tipperary,214,1063,227,1063
+2005,One off houses,Tipperary,Tipperary,221,774,171,774
+2006,One off houses,Tipperary,Tipperary,233,683,159,683
+2007,One off houses,Tipperary,Tipperary,241,814,196,814
+2008,One off houses,Tipperary,Tipperary,252,595,150,595
+2009,One off houses,Tipperary,Tipperary,258,380,98,380
+2010,One off houses,Tipperary,Tipperary,251,259,65,259
+2011,One off houses,Tipperary,Tipperary,270,200,54,200
+2012,One off houses,Tipperary,Tipperary,252,127,32,127
+2013,One off houses,Tipperary,Tipperary,265,132,35,132
+2014,One off houses,Tipperary,Tipperary,272,136,37,136
+2015,One off houses,Tipperary,Tipperary,257,109,28,109
+2016,One off houses,Tipperary,Tipperary,245,139,34,139
+2017,One off houses,Tipperary,Tipperary,234,201,47,201
+2001,Private flats/apartments,Tipperary,Tipperary,77,34,12,156
+2002,Private flats/apartments,Tipperary,Tipperary,67,43,18,269
+2003,Private flats/apartments,Tipperary,Tipperary,66,53,10,152
+2004,Private flats/apartments,Tipperary,Tipperary,70,40,29,412
+2005,Private flats/apartments,Tipperary,Tipperary,65,56,16,246
+2006,Private flats/apartments,Tipperary,Tipperary,69,35,10,144
+2007,Private flats/apartments,Tipperary,Tipperary,88,45,22,250
+2008,Private flats/apartments,Tipperary,Tipperary,83,32,25,300
+2009,Private flats/apartments,Tipperary,Tipperary,85,20,6,71
+2010,Private flats/apartments,Tipperary,Tipperary,81,14,14,172
+2011,Private flats/apartments,Tipperary,Tipperary,48,6,1,21
+2012,Private flats/apartments,Tipperary,Tipperary,111,6,1,9
+2013,Private flats/apartments,Tipperary,Tipperary,111,6,1,9
+2014,Private flats/apartments,Tipperary,Tipperary,83,6,1,12
+2015,Private flats/apartments,Tipperary,Tipperary,0,1,0,1
+2016,Private flats/apartments,Tipperary,Tipperary,0,6,0,6
+2017,Private flats/apartments,Tipperary,Tipperary,91,8,1,11
